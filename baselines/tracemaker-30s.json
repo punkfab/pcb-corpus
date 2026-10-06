@@ -1,0 +1,1886 @@
+{
+ "boards": {
+  "0rax__esphome-xiao-base__pcb": {
+   "clean": false,
+   "connections": 28,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 6.3
+  },
+  "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter": {
+   "clean": false,
+   "connections": 38,
+   "drv": 0,
+   "open": 1,
+   "routed": 0.9737,
+   "seconds": 30.2
+  },
+  "10-X-eng__KiChad__complex_hierarchy": {
+   "clean": true,
+   "connections": 112,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 8.0
+  },
+  "10-X-eng__KiChad__interf_u": {
+   "clean": false,
+   "connections": 200,
+   "drv": 6,
+   "open": 11,
+   "routed": 0.945,
+   "seconds": 30.4
+  },
+  "AutopilotPi__AutoPilotPi-Hardware__AutoPilotPi": {
+   "clean": false,
+   "connections": 343,
+   "drv": 53,
+   "open": 10,
+   "routed": 0.9708,
+   "seconds": 31.7
+  },
+  "AzonInc__Doorman__doorman": {
+   "clean": true,
+   "connections": 89,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 20.8
+  },
+  "AzonInc__Doorman__doorman_slot": {
+   "clean": false,
+   "connections": 89,
+   "drv": 6,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.7
+  },
+  "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1": {
+   "clean": false,
+   "connections": 159,
+   "drv": 0,
+   "open": 1,
+   "routed": 0.9937,
+   "seconds": 30.5
+  },
+  "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-RP2040-r0.4": {
+   "clean": false,
+   "connections": 163,
+   "drv": 44,
+   "open": 1,
+   "routed": 0.9939,
+   "seconds": 30.4
+  },
+  "CRImier__MyKiCad__protoesp": {
+   "clean": false,
+   "connections": 369,
+   "drv": 248,
+   "open": 28,
+   "routed": 0.9241,
+   "seconds": 30.4
+  },
+  "CRImier__MyKiCad__vaio_re": {
+   "clean": false,
+   "connections": 499,
+   "drv": 0,
+   "open": 81,
+   "routed": 0.8377,
+   "seconds": 30.6
+  },
+  "ChrisChrisLoLo__bancouver40__bancouver40_cfx": {
+   "clean": false,
+   "connections": 175,
+   "drv": 2,
+   "open": 11,
+   "routed": 0.9371,
+   "seconds": 30.8
+  },
+  "ChrisChrisLoLo__bancouver40__dogema48_cfx": {
+   "clean": false,
+   "connections": 205,
+   "drv": 11,
+   "open": 15,
+   "routed": 0.9268,
+   "seconds": 33.2
+  },
+  "ChrisChrisLoLo__banime40__banime40": {
+   "clean": false,
+   "connections": 141,
+   "drv": 86,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.7
+  },
+  "ChrisChrisLoLo__loongcat40__loongcat40": {
+   "clean": false,
+   "connections": 154,
+   "drv": 7,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.6
+  },
+  "Chrismettal__ESP-Hiro__ESP-Hiro": {
+   "clean": false,
+   "connections": 198,
+   "drv": 28,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.2
+  },
+  "Chrismettal__ESP-Hiro__USB-CP2102-only": {
+   "clean": false,
+   "connections": 54,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 5.5
+  },
+  "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module": {
+   "clean": true,
+   "connections": 166,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.7
+  },
+  "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module_board_a": {
+   "clean": false,
+   "connections": 115,
+   "drv": 1,
+   "open": 5,
+   "routed": 0.9565,
+   "seconds": 34.1
+  },
+  "DuBento__puffer__puffer": {
+   "clean": false,
+   "connections": 224,
+   "drv": 136,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.6
+  },
+  "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040": {
+   "clean": false,
+   "connections": 159,
+   "drv": 0,
+   "open": 3,
+   "routed": 0.9811,
+   "seconds": 30.5
+  },
+  "Envious-Data__EnvOpenPico__EnvOpenPico2350": {
+   "clean": false,
+   "connections": 164,
+   "drv": 30,
+   "open": 5,
+   "routed": 0.9695,
+   "seconds": 30.6
+  },
+  "FyraLabs__suzyqboard__suzyqboard": {
+   "clean": true,
+   "connections": 22,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 7.0
+  },
+  "Gekkio__gb-hardware__GB-BENCH-G1": {
+   "clean": false,
+   "connections": 499,
+   "drv": 0,
+   "open": 212,
+   "routed": 0.5752,
+   "seconds": 30.8
+  },
+  "Gekkio__gb-hardware__GB-CARTPP-DIY": {
+   "clean": false,
+   "connections": 85,
+   "drv": 4,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "Goga64__ULK__ULK": {
+   "clean": true,
+   "connections": 362,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.3
+  },
+  "Goga64__ULK__ULK_4ead33": {
+   "clean": false,
+   "connections": 320,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.9
+  },
+  "GuitarML__FunBox__funbox_v2": {
+   "clean": false,
+   "connections": 139,
+   "drv": 52,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.2
+  },
+  "GuitarML__FunBox__funbox_v3": {
+   "clean": false,
+   "connections": 145,
+   "drv": 51,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "GuitarML__GuitarPedalSTM32__STM32H7_GuitarPedal": {
+   "clean": false,
+   "connections": 260,
+   "drv": 5,
+   "open": 1,
+   "routed": 0.9962,
+   "seconds": 32.3
+  },
+  "Hydra-Designs__project-hydra-meshtastic-pcb__Hydra_Base": {
+   "clean": true,
+   "connections": 20,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 17.9
+  },
+  "Hydra-Designs__project-hydra-meshtastic-pcb__meshtastic-diy": {
+   "clean": false,
+   "connections": 118,
+   "drv": 4,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "Jana-Marie__EF-S-Adapter__lensmount-v1.1": {
+   "clean": false,
+   "connections": 85,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 28.5
+  },
+  "Jana-Marie__LAEMP-Prism__laemp_wall": {
+   "clean": false,
+   "connections": 214,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 29.2
+  },
+  "Jana-Marie__LAEMP-Prism__laemp_wall_usb": {
+   "clean": false,
+   "connections": 214,
+   "drv": 3,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE": {
+   "clean": true,
+   "connections": 53,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 9.4
+  },
+  "Jana-Marie__analog-toolkit__analog-toolkit": {
+   "clean": false,
+   "connections": 190,
+   "drv": 0,
+   "open": 8,
+   "routed": 0.9579,
+   "seconds": 31.4
+  },
+  "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub": {
+   "clean": false,
+   "connections": 132,
+   "drv": 11,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "Jana-Marie__hoverboard-breakout__bobbycar": {
+   "clean": false,
+   "connections": 56,
+   "drv": 9,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.2
+  },
+  "Jana-Marie__ligra__ligra_back": {
+   "clean": false,
+   "connections": 136,
+   "drv": 4,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 25.6
+  },
+  "Jana-Marie__mini-motor-controller__mini-motor-controller": {
+   "clean": true,
+   "connections": 94,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 10.3
+  },
+  "JaninaWibker__jdkbd__jade": {
+   "clean": false,
+   "connections": 346,
+   "drv": 254,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "JordanAceto__micro-pico__micro_pico": {
+   "clean": false,
+   "connections": 499,
+   "drv": 2,
+   "open": 2,
+   "routed": 0.996,
+   "seconds": 30.9
+  },
+  "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator": {
+   "clean": false,
+   "connections": 99,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.2
+  },
+  "KabukiFlux__JAMMA_2player_xbox360__Jamma_rgbuntu_xbox360": {
+   "clean": false,
+   "connections": 125,
+   "drv": 99,
+   "open": 51,
+   "routed": 0.592,
+   "seconds": 32.5
+  },
+  "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer": {
+   "clean": false,
+   "connections": 59,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 3.7
+  },
+  "KabukiFlux__NES-IO-Board-nessionator__Nes_xieles": {
+   "clean": false,
+   "connections": 45,
+   "drv": 5,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 7.0
+  },
+  "KabukiFlux__Scart-Megadrive-2-12v-cable__scart_12v_mega2": {
+   "clean": false,
+   "connections": 40,
+   "drv": 3,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 2.7
+  },
+  "KabukiFlux__pi-rgb-cable-sync-mixer__rgbpi_sync_mixer": {
+   "clean": true,
+   "connections": 8,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.2
+  },
+  "Kampi__BeeLight__BeeLight": {
+   "clean": true,
+   "connections": 59,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 5.5
+  },
+  "KiCad__kicad-source-mirror__kit-dev-coldfire-xilinx_5213": {
+   "clean": false,
+   "connections": 499,
+   "drv": 0,
+   "open": 99,
+   "routed": 0.8016,
+   "seconds": 31.1
+  },
+  "KiCad__kicad-source-mirror__video": {
+   "clean": false,
+   "connections": 499,
+   "drv": 0,
+   "open": 358,
+   "routed": 0.2826,
+   "seconds": 31.1
+  },
+  "Ladniy__TK44__TK44": {
+   "clean": false,
+   "connections": 181,
+   "drv": 90,
+   "open": 1,
+   "routed": 0.9945,
+   "seconds": 32.3
+  },
+  "LibreSolar__uext-esp32-c3__uext-esp32-c3": {
+   "clean": false,
+   "connections": 68,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.8
+  },
+  "MAKERSUN99__MAUS__topo": {
+   "clean": true,
+   "connections": 31,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 2.8
+  },
+  "Miceuz__i2c-moisture-sensor__i2c-moist-sensor": {
+   "clean": false,
+   "connections": 48,
+   "drv": 12,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 6.7
+  },
+  "Miceuz__rs485-moist-sensor__rs485-moist-sensor": {
+   "clean": true,
+   "connections": 70,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.1
+  },
+  "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_3d9dc0": {
+   "clean": false,
+   "connections": 94,
+   "drv": 18,
+   "open": 78,
+   "routed": 0.1702,
+   "seconds": 30.8
+  },
+  "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb": {
+   "clean": false,
+   "connections": 120,
+   "drv": 47,
+   "open": 6,
+   "routed": 0.95,
+   "seconds": 31.6
+  },
+  "OpenLightingProject__rp2040-dmxsun__baseboard_2slots": {
+   "clean": false,
+   "connections": 139,
+   "drv": 8,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.6
+  },
+  "OpenLightingProject__rp2040-dmxsun__baseboard_4slots": {
+   "clean": false,
+   "connections": 182,
+   "drv": 6,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.7
+  },
+  "Ottercast__OtterCastAudioV2__OtterCastAudioV2": {
+   "clean": false,
+   "connections": 499,
+   "drv": 17,
+   "open": 59,
+   "routed": 0.8818,
+   "seconds": 30.9
+  },
+  "PTALTS-LK__RKD-OLD__RKD": {
+   "clean": false,
+   "connections": 249,
+   "drv": 66,
+   "open": 22,
+   "routed": 0.9116,
+   "seconds": 30.8
+  },
+  "PTALTS-LK__RKD-OLD__RKD_943d37": {
+   "clean": false,
+   "connections": 241,
+   "drv": 61,
+   "open": 23,
+   "routed": 0.9046,
+   "seconds": 32.1
+  },
+  "Pakequis__Bad-Thing-of-the-Edge-keyboard__Bad_Thing_of_the_Edge_Keyboard": {
+   "clean": false,
+   "connections": 102,
+   "drv": 373,
+   "open": 10,
+   "routed": 0.902,
+   "seconds": 30.6
+  },
+  "Pakequis__ProtoConn__ProtoConn": {
+   "clean": false,
+   "connections": 499,
+   "drv": 88,
+   "open": 47,
+   "routed": 0.9058,
+   "seconds": 30.6
+  },
+  "PatrickBaus__SCAN2000__SCAN2000": {
+   "clean": false,
+   "connections": 395,
+   "drv": 1,
+   "open": 7,
+   "routed": 0.9823,
+   "seconds": 33.6
+  },
+  "Pippadi__combadge__Combadge": {
+   "clean": false,
+   "connections": 99,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.9
+  },
+  "PlummersSoftwareLLC__PongPCB__Pong": {
+   "clean": false,
+   "connections": 65,
+   "drv": 3,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 6.0
+  },
+  "RainbowLabsDE__USB2Speakon__USB2Speakon_PCB": {
+   "clean": false,
+   "connections": 122,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "RespiraWorks__Ventilator__pressure_XGZP6897A": {
+   "clean": true,
+   "connections": 14,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.6
+  },
+  "RobertGawron__IonizationChamber__Amplifier": {
+   "clean": false,
+   "connections": 67,
+   "drv": 177,
+   "open": 1,
+   "routed": 0.9851,
+   "seconds": 30.6
+  },
+  "RobertGawron__IonizationChamber__DataProcessingUnit": {
+   "clean": false,
+   "connections": 137,
+   "drv": 45,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 33.5
+  },
+  "Spaceboards__SpaceboardsHardware__Pancake_v8": {
+   "clean": false,
+   "connections": 164,
+   "drv": 18,
+   "open": 16,
+   "routed": 0.9024,
+   "seconds": 37.2
+  },
+  "Spaceflight-Rocketry-Giessen-e-V__Telemetry__TelemetryGroundstationDB": {
+   "clean": true,
+   "connections": 68,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 5.0
+  },
+  "Spaceflight-Rocketry-Giessen-e-V__Telemetry__TelemetryGroundstationMB": {
+   "clean": false,
+   "connections": 348,
+   "drv": 78,
+   "open": 15,
+   "routed": 0.9569,
+   "seconds": 30.8
+  },
+  "Swyter__psdaptwor__psvr2-pc": {
+   "clean": false,
+   "connections": 250,
+   "drv": 0,
+   "open": 24,
+   "routed": 0.904,
+   "seconds": 42.5
+  },
+  "TweetyDaBird__Little-Big-Scroll__Little_Big_Scroll_6": {
+   "clean": false,
+   "connections": 58,
+   "drv": 3,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "TweetyDaBird__Little-Big-Scroll__Little_Big_Scroll_6_-_PCB": {
+   "clean": false,
+   "connections": 58,
+   "drv": 5,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.1
+  },
+  "UzixLS__atfblast__atfblast": {
+   "clean": false,
+   "connections": 109,
+   "drv": 10,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.5
+  },
+  "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard": {
+   "clean": true,
+   "connections": 113,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 25.7
+  },
+  "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard_4a0d91": {
+   "clean": true,
+   "connections": 108,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 18.1
+  },
+  "UzixLS__pc-kharon-386__kharon386_main_42508b": {
+   "clean": false,
+   "connections": 499,
+   "drv": 3,
+   "open": 215,
+   "routed": 0.5691,
+   "seconds": 30.6
+  },
+  "UzixLS__pc-kharon-386__kharon386_top": {
+   "clean": false,
+   "connections": 499,
+   "drv": 21,
+   "open": 93,
+   "routed": 0.8136,
+   "seconds": 30.7
+  },
+  "UzixLS__rgb2svideo__rgb2svideo": {
+   "clean": false,
+   "connections": 79,
+   "drv": 6,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 3.3
+  },
+  "UzixLS__rgb2svideo__rgb2svideo_a55bdc": {
+   "clean": false,
+   "connections": 79,
+   "drv": 9,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 3.5
+  },
+  "UzixLS__zx-multisound__zx-multisound": {
+   "clean": false,
+   "connections": 499,
+   "drv": 206,
+   "open": 88,
+   "routed": 0.8236,
+   "seconds": 30.9
+  },
+  "UzixLS__zx-multisound__zx-multisound_7e5c86": {
+   "clean": false,
+   "connections": 499,
+   "drv": 208,
+   "open": 84,
+   "routed": 0.8317,
+   "seconds": 30.4
+  },
+  "UzixLS__zx-sizif-128__sizif128": {
+   "clean": false,
+   "connections": 338,
+   "drv": 923,
+   "open": 11,
+   "routed": 0.9675,
+   "seconds": 31.4
+  },
+  "UzixLS__zx-sizif-128__sizif128_0b0235": {
+   "clean": false,
+   "connections": 338,
+   "drv": 174,
+   "open": 11,
+   "routed": 0.9675,
+   "seconds": 31.4
+  },
+  "UzixLS__zx-sizif-512-ext__sizif512ext": {
+   "clean": false,
+   "connections": 499,
+   "drv": 395,
+   "open": 69,
+   "routed": 0.8617,
+   "seconds": 31.7
+  },
+  "UzixLS__zx-sizif-xxs__sizif-xxs": {
+   "clean": false,
+   "connections": 289,
+   "drv": 167,
+   "open": 31,
+   "routed": 0.8927,
+   "seconds": 30.4
+  },
+  "Vaaarad07__PCB_Designs__Cyclometer_v1": {
+   "clean": false,
+   "connections": 214,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "Vaaarad07__PCB_Designs__MVCU_F407": {
+   "clean": false,
+   "connections": 312,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 33.1
+  },
+  "WibblyGhost__southerly-split-keeb__southerly": {
+   "clean": false,
+   "connections": 348,
+   "drv": 402,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 33.6
+  },
+  "WibblyGhost__southerly-split-keeb__southerly_ca3258": {
+   "clean": false,
+   "connections": 348,
+   "drv": 0,
+   "open": 2,
+   "routed": 0.9943,
+   "seconds": 32.1
+  },
+  "YC-Lam__IP5328P-powerbank_design__usbpd_powerbank": {
+   "clean": false,
+   "connections": 128,
+   "drv": 21,
+   "open": 7,
+   "routed": 0.9453,
+   "seconds": 30.3
+  },
+  "ZSWatch__Watch-DevKit-HW__ZSWatch-Watch-DevKit": {
+   "clean": false,
+   "connections": 346,
+   "drv": 1,
+   "open": 51,
+   "routed": 0.8526,
+   "seconds": 36.8
+  },
+  "angelnu__esphome__pcb-power-usb": {
+   "clean": true,
+   "connections": 126,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.0
+  },
+  "angelnu__esphome__siedle-bus": {
+   "clean": false,
+   "connections": 74,
+   "drv": 3,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 14.0
+  },
+  "atonizzo__seatalk_wifi__seatalk_wifi": {
+   "clean": false,
+   "connections": 74,
+   "drv": 41,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 6.0
+  },
+  "atoomnetmarc__IoT12__IoT12_Control_Board": {
+   "clean": false,
+   "connections": 172,
+   "drv": 2,
+   "open": 4,
+   "routed": 0.9767,
+   "seconds": 30.3
+  },
+  "atoomnetmarc__IoT12__IoT12_Power_Supply": {
+   "clean": true,
+   "connections": 49,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 5.0
+  },
+  "badjeff__paw3222-pcb__PAW3222": {
+   "clean": true,
+   "connections": 15,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.7
+  },
+  "badjeff__paw3395-pcb__paw3395": {
+   "clean": true,
+   "connections": 40,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.9
+  },
+  "badjeff__pmw3610-pcb__pmw3610_pcb": {
+   "clean": false,
+   "connections": 34,
+   "drv": 0,
+   "open": 3,
+   "routed": 0.9118,
+   "seconds": 30.2
+  },
+  "bbogush__nand_programmer__nand_programmator": {
+   "clean": false,
+   "connections": 129,
+   "drv": 109,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "beekeeb__piantor__keyboard_pcb": {
+   "clean": false,
+   "connections": 99,
+   "drv": 45,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.7
+  },
+  "beekeeb__piantor__keyboard_pcb_eaa4ba": {
+   "clean": false,
+   "connections": 99,
+   "drv": 32,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.2
+  },
+  "bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI": {
+   "clean": false,
+   "connections": 212,
+   "drv": 14,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.2
+  },
+  "blueOkiris__ch552g-dev-board__ch552g-dev-board": {
+   "clean": true,
+   "connections": 35,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "brenocq__bldc-motor__BLDCM-MCU": {
+   "clean": false,
+   "connections": 212,
+   "drv": 16,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.0
+  },
+  "brenocq__bldc-motor__BLDCM-Power": {
+   "clean": false,
+   "connections": 187,
+   "drv": 41,
+   "open": 1,
+   "routed": 0.9947,
+   "seconds": 31.9
+  },
+  "brown-studios__minuet__minuet": {
+   "clean": false,
+   "connections": 289,
+   "drv": 0,
+   "open": 25,
+   "routed": 0.9135,
+   "seconds": 32.0
+  },
+  "brown-studios__minuet__minuet_086b34": {
+   "clean": false,
+   "connections": 240,
+   "drv": 0,
+   "open": 23,
+   "routed": 0.9042,
+   "seconds": 31.5
+  },
+  "buildwithtrace__trace__One-Air-Max": {
+   "clean": false,
+   "connections": 490,
+   "drv": 28,
+   "open": 17,
+   "routed": 0.9653,
+   "seconds": 32.9
+  },
+  "buildwithtrace__trace__multichannel_mixer": {
+   "clean": false,
+   "connections": 200,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "byrantech__byrandev__nrf52840": {
+   "clean": false,
+   "connections": 168,
+   "drv": 2,
+   "open": 25,
+   "routed": 0.8512,
+   "seconds": 30.4
+  },
+  "byrantech__laptop__keyboard": {
+   "clean": false,
+   "connections": 357,
+   "drv": 85,
+   "open": 31,
+   "routed": 0.9132,
+   "seconds": 31.8
+  },
+  "byrantech__laptop__power": {
+   "clean": false,
+   "connections": 425,
+   "drv": 226,
+   "open": 16,
+   "routed": 0.9624,
+   "seconds": 31.3
+  },
+  "c0de111__tinta__inki": {
+   "clean": false,
+   "connections": 133,
+   "drv": 15,
+   "open": 13,
+   "routed": 0.9023,
+   "seconds": 30.2
+  },
+  "caffeinated-labs__Caffeinated-AFTONSPARV__Caffeinated-AFTONSPARV": {
+   "clean": false,
+   "connections": 102,
+   "drv": 4,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 8.5
+  },
+  "camrbuss__pinci__pinci": {
+   "clean": false,
+   "connections": 101,
+   "drv": 326,
+   "open": 5,
+   "routed": 0.9505,
+   "seconds": 31.9
+  },
+  "carlansell94__ds4-ext-charger__ds4-ext-charger": {
+   "clean": false,
+   "connections": 18,
+   "drv": 4,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.4
+  },
+  "carlansell94__wii-u-usb-c-board__wii-u-usb-c": {
+   "clean": false,
+   "connections": 13,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.4
+  },
+  "crmaykish__mackerel-68k__mackerel-08-v1": {
+   "clean": false,
+   "connections": 499,
+   "drv": 18,
+   "open": 15,
+   "routed": 0.9699,
+   "seconds": 31.8
+  },
+  "crmaykish__mackerel-68k__mackerel-10-v1": {
+   "clean": false,
+   "connections": 499,
+   "drv": 6,
+   "open": 105,
+   "routed": 0.7896,
+   "seconds": 32.8
+  },
+  "daneski13__Junco__Junco": {
+   "clean": false,
+   "connections": 448,
+   "drv": 75,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 33.3
+  },
+  "diminDDL__PiUPS__PiUPS": {
+   "clean": false,
+   "connections": 282,
+   "drv": 56,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.5
+  },
+  "dnlbauer__corax-keyboard__keyboard": {
+   "clean": false,
+   "connections": 312,
+   "drv": 58,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 35.3
+  },
+  "dnlbauer__corax-keyboard__keyboard_5db1e9": {
+   "clean": true,
+   "connections": 303,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.5
+  },
+  "duckyb__eternal-keypad__eternal-keypad": {
+   "clean": false,
+   "connections": 177,
+   "drv": 393,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.2
+  },
+  "duckyb__urchin__main": {
+   "clean": false,
+   "connections": 126,
+   "drv": 16,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 28.3
+  },
+  "electron271__tuxkeychain__expansion": {
+   "clean": true,
+   "connections": 36,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.9
+  },
+  "espena__dual-button-doorbell__door_bell": {
+   "clean": false,
+   "connections": 191,
+   "drv": 1,
+   "open": 1,
+   "routed": 0.9948,
+   "seconds": 34.3
+  },
+  "ezxzeng__sweep_squared_rot__board": {
+   "clean": false,
+   "connections": 169,
+   "drv": 433,
+   "open": 10,
+   "routed": 0.9408,
+   "seconds": 38.3
+  },
+  "ezxzeng__sweep_squared_rot__board_10ea1c": {
+   "clean": false,
+   "connections": 150,
+   "drv": 435,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 47.8
+  },
+  "flypie__Ace-2019__ACE3NOKB": {
+   "clean": false,
+   "connections": 499,
+   "drv": 0,
+   "open": 226,
+   "routed": 0.5471,
+   "seconds": 30.8
+  },
+  "flypie__Ace-2019__acez180": {
+   "clean": false,
+   "connections": 499,
+   "drv": 189,
+   "open": 162,
+   "routed": 0.6754,
+   "seconds": 30.7
+  },
+  "funkeleinhorn__sc14cvmdect-devboard__audio_header": {
+   "clean": false,
+   "connections": 44,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.2
+  },
+  "funkeleinhorn__sc14cvmdect-devboard__sc14cvmdect-devboard": {
+   "clean": false,
+   "connections": 136,
+   "drv": 0,
+   "open": 15,
+   "routed": 0.8897,
+   "seconds": 32.7
+  },
+  "fxkuehl__mantis__mantis": {
+   "clean": false,
+   "connections": 304,
+   "drv": 41,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.6
+  },
+  "fxkuehl__mantis__mantis_raised_leds": {
+   "clean": false,
+   "connections": 131,
+   "drv": 33,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "galopago__misistemita__C12": {
+   "clean": false,
+   "connections": 81,
+   "drv": 103,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.1
+  },
+  "gcormier__megadesk__megadesk": {
+   "clean": false,
+   "connections": 56,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 18.5
+  },
+  "iandchasse__silkscreen-pcb__silkscreen_pcb": {
+   "clean": false,
+   "connections": 404,
+   "drv": 8,
+   "open": 19,
+   "routed": 0.953,
+   "seconds": 31.1
+  },
+  "ikajdan__reflow-hot-plate__control_board": {
+   "clean": false,
+   "connections": 240,
+   "drv": 0,
+   "open": 3,
+   "routed": 0.9875,
+   "seconds": 30.9
+  },
+  "jangtrinh__design-os-3d-blender__desktop-companion": {
+   "clean": true,
+   "connections": 43,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 13.2
+  },
+  "jasonsbeer__Amiga-2000-EATX__TICK": {
+   "clean": false,
+   "connections": 30,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.0
+  },
+  "jeffqchen__Saturn8DINMod__Saturn_8pin_mini_DIN_mod": {
+   "clean": false,
+   "connections": 14,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.4
+  },
+  "jkramarz__TheTick__Tick": {
+   "clean": false,
+   "connections": 72,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 7.1
+  },
+  "justbuchanan__oasis__ledboard": {
+   "clean": false,
+   "connections": 11,
+   "drv": 6,
+   "open": 5,
+   "routed": 0.5455,
+   "seconds": 4.3
+  },
+  "justbuchanan__oasis__pcb": {
+   "clean": false,
+   "connections": 95,
+   "drv": 10,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.4
+  },
+  "jvedder__Biploar-power-supply-KiCAD__Bipolar_power_supply": {
+   "clean": true,
+   "connections": 53,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.9
+  },
+  "k0swe__mountaineer__mountaineer": {
+   "clean": false,
+   "connections": 170,
+   "drv": 5,
+   "open": 8,
+   "routed": 0.9529,
+   "seconds": 31.9
+  },
+  "kkckrnz__treble__treble": {
+   "clean": true,
+   "connections": 135,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.6
+  },
+  "koron__yuiop__yuiop2040": {
+   "clean": false,
+   "connections": 138,
+   "drv": 1,
+   "open": 12,
+   "routed": 0.913,
+   "seconds": 30.2
+  },
+  "koron__yuiop__yuiop29re": {
+   "clean": true,
+   "connections": 254,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.2
+  },
+  "lambdakb__trackball-lt6c__lt6c-pcb": {
+   "clean": true,
+   "connections": 35,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 26.4
+  },
+  "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays": {
+   "clean": true,
+   "connections": 133,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 16.2
+  },
+  "m1geo__Pi5_PCIe__Pi5_M2_Hat": {
+   "clean": false,
+   "connections": 123,
+   "drv": 55,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.4
+  },
+  "m1geo__Pi5_PCIe__Pi5_PCIe": {
+   "clean": true,
+   "connections": 126,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.8
+  },
+  "maxlab-io__tokay-lite-pcb__ai-camera": {
+   "clean": false,
+   "connections": 370,
+   "drv": 19,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 33.1
+  },
+  "maxlab-io__tokay-lite-pcb__ai-camera-rev2": {
+   "clean": false,
+   "connections": 375,
+   "drv": 6,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.2
+  },
+  "mecparts__RetroWiFiModem__RetroWiFiModem": {
+   "clean": true,
+   "connections": 100,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.5
+  },
+  "mlab-modules__GPS02__GPS02B": {
+   "clean": false,
+   "connections": 126,
+   "drv": 350,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 7.7
+  },
+  "mlab-modules__ISM01__ISM01": {
+   "clean": false,
+   "connections": 182,
+   "drv": 81,
+   "open": 1,
+   "routed": 0.9945,
+   "seconds": 30.3
+  },
+  "mlab-modules__USBI2C01__USBI2C01": {
+   "clean": false,
+   "connections": 73,
+   "drv": 14,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 18.5
+  },
+  "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT": {
+   "clean": false,
+   "connections": 125,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 20.6
+  },
+  "mprosk__mtg_life_counter__mtg_life_counter": {
+   "clean": false,
+   "connections": 255,
+   "drv": 46,
+   "open": 58,
+   "routed": 0.7725,
+   "seconds": 33.0
+  },
+  "murexrobotics__electrical__ESC_Carrier": {
+   "clean": true,
+   "connections": 391,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.9
+  },
+  "murexrobotics__electrical__carrier": {
+   "clean": false,
+   "connections": 499,
+   "drv": 15,
+   "open": 207,
+   "routed": 0.5852,
+   "seconds": 32.2
+  },
+  "mzuelch__CATs-Eurosynth__Rectifier_Main": {
+   "clean": false,
+   "connections": 69,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.8
+  },
+  "mzuelch__CATs-Eurosynth__Slimline_Clock_Divider_SMD_Main": {
+   "clean": true,
+   "connections": 94,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 12.2
+  },
+  "nandfarm__PowerRiser__PowerRiser_v2.2": {
+   "clean": false,
+   "connections": 219,
+   "drv": 2,
+   "open": 13,
+   "routed": 0.9406,
+   "seconds": 33.4
+  },
+  "niw__mfk60__mfk60": {
+   "clean": false,
+   "connections": 319,
+   "drv": 1,
+   "open": 28,
+   "routed": 0.9122,
+   "seconds": 31.5
+  },
+  "ojg__thatmicpre__thatmicpre_v1": {
+   "clean": true,
+   "connections": 135,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 1.8
+  },
+  "ojg__thatmicpre__thatmicpre_v2": {
+   "clean": true,
+   "connections": 158,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.5
+  },
+  "openeew__openeew-sensor__pcb": {
+   "clean": false,
+   "connections": 265,
+   "drv": 9,
+   "open": 29,
+   "routed": 0.8906,
+   "seconds": 33.1
+  },
+  "overset__trackball__trackball": {
+   "clean": false,
+   "connections": 18,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 12.0
+  },
+  "overset__trackball__trackball_634db4": {
+   "clean": false,
+   "connections": 12,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 3.2
+  },
+  "pcbcupid__Kicad-7-Series__Schematics": {
+   "clean": true,
+   "connections": 14,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.5
+  },
+  "pcbcupid__Kicad-7-Series__Schematics_d1e5bd": {
+   "clean": true,
+   "connections": 14,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.5
+  },
+  "protolux-electronics__soleil_hardware__soleil": {
+   "clean": false,
+   "connections": 181,
+   "drv": 7,
+   "open": 3,
+   "routed": 0.9834,
+   "seconds": 32.1
+  },
+  "protolux-electronics__trellis_core__trellis_core": {
+   "clean": true,
+   "connections": 204,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.4
+  },
+  "raeedcho__temper__temper": {
+   "clean": false,
+   "connections": 140,
+   "drv": 145,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.8
+  },
+  "ravinrabbid__DonCon2040__DonConIO": {
+   "clean": true,
+   "connections": 208,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 22.7
+  },
+  "ravinrabbid__DonCon2040__DonConIOmini": {
+   "clean": true,
+   "connections": 184,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 25.7
+  },
+  "rhaamo__kicad-amiga2000__amiga2000": {
+   "clean": false,
+   "connections": 499,
+   "drv": 31,
+   "open": 499,
+   "routed": 0.0,
+   "seconds": 44.6
+  },
+  "rniwase__sdtv2csi__sdtv2csi": {
+   "clean": true,
+   "connections": 138,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 17.6
+  },
+  "rniwase__tsuraraGB__tGB-main": {
+   "clean": false,
+   "connections": 235,
+   "drv": 0,
+   "open": 30,
+   "routed": 0.8723,
+   "seconds": 30.8
+  },
+  "rniwase__tsuraraGB__tGB-prog": {
+   "clean": false,
+   "connections": 98,
+   "drv": 1,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 15.5
+  },
+  "rschenk__re-gret__regret": {
+   "clean": false,
+   "connections": 150,
+   "drv": 71,
+   "open": 18,
+   "routed": 0.88,
+   "seconds": 31.2
+  },
+  "siderakb__calcite__Calcite52": {
+   "clean": false,
+   "connections": 253,
+   "drv": 2,
+   "open": 21,
+   "routed": 0.917,
+   "seconds": 33.8
+  },
+  "siderakb__calcite__Calcite60": {
+   "clean": false,
+   "connections": 292,
+   "drv": 25,
+   "open": 12,
+   "routed": 0.9589,
+   "seconds": 33.4
+  },
+  "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard": {
+   "clean": false,
+   "connections": 368,
+   "drv": 4,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.8
+  },
+  "siderakb__ergo-snm-keyboard__ErgoSNM_right": {
+   "clean": false,
+   "connections": 217,
+   "drv": 70,
+   "open": 10,
+   "routed": 0.9539,
+   "seconds": 31.2
+  },
+  "siderakb__mdbt-micro__MDBTMicro_50Q": {
+   "clean": false,
+   "connections": 99,
+   "drv": 4,
+   "open": 2,
+   "routed": 0.9798,
+   "seconds": 30.7
+  },
+  "siderakb__pmw3360-pcb__pmw3360_pcb_jst": {
+   "clean": true,
+   "connections": 39,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.2
+  },
+  "siderakb__pmw3360-pcb__pmw3360_pcb_pinheader": {
+   "clean": false,
+   "connections": 35,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.2
+  },
+  "siderakb__pmw3610-pcb__pmw3610_pcb": {
+   "clean": false,
+   "connections": 48,
+   "drv": 0,
+   "open": 1,
+   "routed": 0.9792,
+   "seconds": 30.3
+  },
+  "siderakb__rp-micro__rp-micro": {
+   "clean": false,
+   "connections": 126,
+   "drv": 82,
+   "open": 6,
+   "routed": 0.9524,
+   "seconds": 30.5
+  },
+  "skot__bitaxe__bitaxeUltra": {
+   "clean": false,
+   "connections": 289,
+   "drv": 6,
+   "open": 10,
+   "routed": 0.9654,
+   "seconds": 30.5
+  },
+  "sommerper__framework16-keyboard-v1__framework16v1": {
+   "clean": false,
+   "connections": 289,
+   "drv": 0,
+   "open": 6,
+   "routed": 0.9792,
+   "seconds": 32.8
+  },
+  "sssata__fluxpad__Fluxpad": {
+   "clean": false,
+   "connections": 161,
+   "drv": 37,
+   "open": 19,
+   "routed": 0.882,
+   "seconds": 35.8
+  },
+  "stack-chan__stack-chan__m5-pantilt": {
+   "clean": true,
+   "connections": 94,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.9
+  },
+  "stas2k__galspanic__galspanic": {
+   "clean": false,
+   "connections": 284,
+   "drv": 298,
+   "open": 128,
+   "routed": 0.5493,
+   "seconds": 31.0
+  },
+  "steelpuxnastik__SHINSANWASWITCH__shinsanwaswitch_v1": {
+   "clean": false,
+   "connections": 16,
+   "drv": 22,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.2
+  },
+  "sufst__pcb__16Ch-Sensor-Hub": {
+   "clean": false,
+   "connections": 441,
+   "drv": 14,
+   "open": 17,
+   "routed": 0.9615,
+   "seconds": 30.5
+  },
+  "sufst__pcb__8Ch-Sensor-Hub": {
+   "clean": false,
+   "connections": 288,
+   "drv": 2,
+   "open": 3,
+   "routed": 0.9896,
+   "seconds": 30.3
+  },
+  "tcsullivan__noisecard__noisecard": {
+   "clean": true,
+   "connections": 65,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.3
+  },
+  "techy-robot__Mighty-Micro-Motors__esp32-s3_single_motor_battery_controller": {
+   "clean": false,
+   "connections": 266,
+   "drv": 2,
+   "open": 52,
+   "routed": 0.8045,
+   "seconds": 30.2
+  },
+  "techy-robot__Mighty-Micro-Motors__stm32g070_and_DRV8311_single_motor_board_-_V1_Alpha": {
+   "clean": false,
+   "connections": 180,
+   "drv": 9,
+   "open": 14,
+   "routed": 0.9222,
+   "seconds": 31.8
+  },
+  "tjko__brickpico__brickpico": {
+   "clean": true,
+   "connections": 229,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.9
+  },
+  "tjko__fanpico__fanpico": {
+   "clean": false,
+   "connections": 330,
+   "drv": 14,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.8
+  },
+  "tjko__fanpico__fanpico_31b08e": {
+   "clean": false,
+   "connections": 442,
+   "drv": 0,
+   "open": 23,
+   "routed": 0.948,
+   "seconds": 34.1
+  },
+  "tmarhguy__alu__gate_xnor_2in": {
+   "clean": true,
+   "connections": 38,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 4.4
+  },
+  "tmarhguy__alu__gate_xor_2in": {
+   "clean": false,
+   "connections": 39,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 2.7
+  },
+  "tomtor__STM32-RFM95-PCB__AVR-LORA": {
+   "clean": false,
+   "connections": 106,
+   "drv": 0,
+   "open": 5,
+   "routed": 0.9528,
+   "seconds": 30.8
+  },
+  "tomtor__STM32-RFM95-PCB__AVR-LORA-805": {
+   "clean": false,
+   "connections": 106,
+   "drv": 0,
+   "open": 1,
+   "routed": 0.9906,
+   "seconds": 32.5
+  },
+  "transistorfet__computie__68k-SMT": {
+   "clean": false,
+   "connections": 428,
+   "drv": 10,
+   "open": 86,
+   "routed": 0.7991,
+   "seconds": 30.5
+  },
+  "transistorfet__computie__k30-SBC": {
+   "clean": false,
+   "connections": 499,
+   "drv": 12,
+   "open": 171,
+   "routed": 0.6573,
+   "seconds": 31.6
+  },
+  "transistorfet__z280__Z280-SBC": {
+   "clean": false,
+   "connections": 385,
+   "drv": 7,
+   "open": 110,
+   "routed": 0.7143,
+   "seconds": 31.5
+  },
+  "tzarc__keyboards__Kobold": {
+   "clean": false,
+   "connections": 266,
+   "drv": 84,
+   "open": 14,
+   "routed": 0.9474,
+   "seconds": 33.2
+  },
+  "tzarc__keyboards__ghoul": {
+   "clean": false,
+   "connections": 499,
+   "drv": 291,
+   "open": 41,
+   "routed": 0.9178,
+   "seconds": 30.7
+  },
+  "valletw__esp-atx-power__esp-atx-power": {
+   "clean": true,
+   "connections": 134,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.1
+  },
+  "w4b-zero__ESP32_mini_8Port_WLED__ESP32_mini_8Port_WLED": {
+   "clean": false,
+   "connections": 83,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 30.6
+  },
+  "waterloo-rocketry__canhw__altimeter": {
+   "clean": false,
+   "connections": 301,
+   "drv": 37,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 31.1
+  },
+  "waterloo-rocketry__canhw__processor": {
+   "clean": false,
+   "connections": 188,
+   "drv": 0,
+   "open": 5,
+   "routed": 0.9734,
+   "seconds": 31.0
+  },
+  "ytmytm__c128-mmu-256k-exp__c128-mmu-exp": {
+   "clean": false,
+   "connections": 129,
+   "drv": 5,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 22.3
+  },
+  "ytmytm__c128-mmu-256k-exp__c128-mmu-exp_49c3af": {
+   "clean": false,
+   "connections": 103,
+   "drv": 2,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 11.4
+  },
+  "zhiayang__mikoto__mikoto": {
+   "clean": false,
+   "connections": 164,
+   "drv": 1,
+   "open": 4,
+   "routed": 0.9756,
+   "seconds": 32.4
+  },
+  "zhiayang__mikoto__mikoto-flashbed": {
+   "clean": true,
+   "connections": 71,
+   "drv": 0,
+   "open": 0,
+   "routed": 1.0,
+   "seconds": 0.3
+  },
+  "ziteh__moco__moco-rd501": {
+   "clean": false,
+   "connections": 317,
+   "drv": 9,
+   "open": 56,
+   "routed": 0.8233,
+   "seconds": 31.9
+  },
+  "ziteh__moco__moco-sc1": {
+   "clean": false,
+   "connections": 204,
+   "drv": 28,
+   "open": 10,
+   "routed": 0.951,
+   "seconds": 30.8
+  }
+ },
+ "cmd": "tracemaker route {in} -o {out} --time 30 --threads 4 --no-kb",
+ "name": "tracemaker-30s"
+}
