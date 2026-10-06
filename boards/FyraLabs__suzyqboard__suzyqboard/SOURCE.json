@@ -1,0 +1,13 @@
+{
+ "repo": "FyraLabs/suzyqboard",
+ "commit": "c892c9b8715ea265b6964d96a4e5fa26ebbcb24e",
+ "path": "suzyqboard.kicad_pcb",
+ "extras": [
+  "suzyqboard.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 25,
+ "url": "https://github.com/FyraLabs/suzyqboard/blob/c892c9b8715ea265b6964d96a4e5fa26ebbcb24e/suzyqboard.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

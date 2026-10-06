@@ -1,0 +1,13 @@
+{
+ "repo": "crmaykish/mackerel-68k",
+ "commit": "50786ed64897e037c57989c3322f02ea375584b7",
+ "path": "hardware/mackerel-08-v1/mackerel-08-v1.kicad_pcb",
+ "extras": [
+  "hardware/mackerel-08-v1/mackerel-08-v1.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 95,
+ "url": "https://github.com/crmaykish/mackerel-68k/blob/50786ed64897e037c57989c3322f02ea375584b7/hardware/mackerel-08-v1/mackerel-08-v1.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

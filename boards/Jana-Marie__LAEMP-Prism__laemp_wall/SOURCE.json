@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/LAEMP-Prism",
+ "commit": "783e40adbe1b97a7b2482d0d3aacb02353aec361",
+ "path": "laemp_wall/laemp_wall.kicad_pcb",
+ "extras": [
+  "laemp_wall/laemp_wall.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 33,
+ "url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/laemp_wall/laemp_wall.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

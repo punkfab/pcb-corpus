@@ -1,0 +1,13 @@
+{
+ "repo": "nandfarm/PowerRiser",
+ "commit": "40b768cad5bf1061fceacd70387fc7fd336b3f14",
+ "path": "PowerRiser_v2.2/PowerRiser_v2.2.kicad_pcb",
+ "extras": [
+  "PowerRiser_v2.2/PowerRiser_v2.2.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 28,
+ "url": "https://github.com/nandfarm/PowerRiser/blob/40b768cad5bf1061fceacd70387fc7fd336b3f14/PowerRiser_v2.2/PowerRiser_v2.2.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

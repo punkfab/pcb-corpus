@@ -1,0 +1,13 @@
+{
+ "repo": "RobertGawron/IonizationChamber",
+ "commit": "9f31d4af456c0662072cb1394554ea43dd819e8e",
+ "path": "Hardware/DataProcessingUnit/DataProcessingUnit.kicad_pcb",
+ "extras": [
+  "Hardware/DataProcessingUnit/DataProcessingUnit.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 10,
+ "url": "https://github.com/RobertGawron/IonizationChamber/blob/9f31d4af456c0662072cb1394554ea43dd819e8e/Hardware/DataProcessingUnit/DataProcessingUnit.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

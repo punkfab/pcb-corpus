@@ -1,0 +1,13 @@
+{
+ "repo": "Pakequis/ProtoConn",
+ "commit": "ffd7c437a89f6b5c9abed5efc0b30509473ba5fd",
+ "path": "Hardware/ProtoConn.kicad_pcb",
+ "extras": [
+  "Hardware/ProtoConn.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 70,
+ "url": "https://github.com/Pakequis/ProtoConn/blob/ffd7c437a89f6b5c9abed5efc0b30509473ba5fd/Hardware/ProtoConn.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

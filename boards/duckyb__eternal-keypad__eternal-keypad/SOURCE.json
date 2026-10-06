@@ -1,0 +1,13 @@
+{
+ "repo": "duckyb/eternal-keypad",
+ "commit": "bf11c1d50ead127c25401d262d73834e8438f3ca",
+ "path": "pcb-kicad/eternal-keypad.kicad_pcb",
+ "extras": [
+  "pcb-kicad/eternal-keypad.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 189,
+ "url": "https://github.com/duckyb/eternal-keypad/blob/bf11c1d50ead127c25401d262d73834e8438f3ca/pcb-kicad/eternal-keypad.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

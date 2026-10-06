@@ -1,0 +1,13 @@
+{
+ "repo": "KiCad/kicad-source-mirror",
+ "commit": "2729bab4012fda01b6ea5ea541b64d5438a3cb9c",
+ "path": "demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire-xilinx_5213.kicad_pcb",
+ "extras": [
+  "demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire-xilinx_5213.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 3008,
+ "url": "https://github.com/KiCad/kicad-source-mirror/blob/2729bab4012fda01b6ea5ea541b64d5438a3cb9c/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire-xilinx_5213.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

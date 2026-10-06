@@ -1,0 +1,13 @@
+{
+ "repo": "waterloo-rocketry/canhw",
+ "commit": "d86161ee54818805a1baceadb0cbb42674010210",
+ "path": "altimeter/altimeter.kicad_pcb",
+ "extras": [
+  "altimeter/altimeter.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 15,
+ "url": "https://github.com/waterloo-rocketry/canhw/blob/d86161ee54818805a1baceadb0cbb42674010210/altimeter/altimeter.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

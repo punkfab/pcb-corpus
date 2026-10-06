@@ -1,0 +1,13 @@
+{
+ "repo": "Spaceboards/SpaceboardsHardware",
+ "commit": "dd4fe15e030dee4aa9de2783cbc442bf9e349df2",
+ "path": "Keyboards/Waffle/kicad/Pancake_v8.kicad_pcb",
+ "extras": [
+  "Keyboards/Waffle/kicad/Pancake_v8.kicad_pro"
+ ],
+ "licence": "CERN-OHL-W-2.0",
+ "stars": 144,
+ "url": "https://github.com/Spaceboards/SpaceboardsHardware/blob/dd4fe15e030dee4aa9de2783cbc442bf9e349df2/Keyboards/Waffle/kicad/Pancake_v8.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

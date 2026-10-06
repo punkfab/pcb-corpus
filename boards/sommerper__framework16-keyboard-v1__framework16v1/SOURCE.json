@@ -1,0 +1,13 @@
+{
+ "repo": "sommerper/framework16-keyboard-v1",
+ "commit": "0367c605819d629a1eedcd6792cfe532f3803712",
+ "path": "kicad/framework16v1/framework16v1.kicad_pcb",
+ "extras": [
+  "kicad/framework16v1/framework16v1.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 30,
+ "url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/kicad/framework16v1/framework16v1.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

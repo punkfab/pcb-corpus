@@ -1,0 +1,13 @@
+{
+ "repo": "Pakequis/Bad-Thing-of-the-Edge-keyboard",
+ "commit": "f7e73685d0bc05957b2d3bedc635b2414c79a013",
+ "path": "Hardware/Main-board/Bad Thing of the Edge Keyboard.kicad_pcb",
+ "extras": [
+  "Hardware/Main-board/Bad Thing of the Edge Keyboard.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 45,
+ "url": "https://github.com/Pakequis/Bad-Thing-of-the-Edge-keyboard/blob/f7e73685d0bc05957b2d3bedc635b2414c79a013/Hardware/Main-board/Bad Thing of the Edge Keyboard.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

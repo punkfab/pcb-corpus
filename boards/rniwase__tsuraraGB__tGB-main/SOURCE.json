@@ -1,0 +1,13 @@
+{
+ "repo": "rniwase/tsuraraGB",
+ "commit": "04d25e09f39777cabaa92c77b82b80f0ed53e2da",
+ "path": "pcb/main/tGB-main.kicad_pcb",
+ "extras": [
+  "pcb/main/tGB-main.kicad_pro"
+ ],
+ "licence": "BSD-3-Clause",
+ "stars": 16,
+ "url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/pcb/main/tGB-main.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "KabukiFlux/Duplicanator-Scart-Duplicator",
+ "commit": "6ba5ec0b55c7774b167d11d3738b21775ac1bc7e",
+ "path": "KiCAD/scart_duplicator/scart_duplicator.kicad_pcb",
+ "extras": [
+  "KiCAD/scart_duplicator/scart_duplicator.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 13,
+ "url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/KiCAD/scart_duplicator/scart_duplicator.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

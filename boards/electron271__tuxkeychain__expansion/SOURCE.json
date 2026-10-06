@@ -1,0 +1,13 @@
+{
+ "repo": "electron271/tuxkeychain",
+ "commit": "b04b8d2f5e35be7d8466fca8ecbf0ac3087b2bdf",
+ "path": "expansion/expansion.kicad_pcb",
+ "extras": [
+  "expansion/expansion.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 17,
+ "url": "https://github.com/electron271/tuxkeychain/blob/b04b8d2f5e35be7d8466fca8ecbf0ac3087b2bdf/expansion/expansion.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

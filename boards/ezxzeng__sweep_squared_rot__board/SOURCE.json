@@ -1,0 +1,13 @@
+{
+ "repo": "ezxzeng/sweep_squared_rot",
+ "commit": "8429f6934a76b31c220b228cfafe3b7fb716fd08",
+ "path": "routed_pcb/mx_gateron_lp_hotswap/board.kicad_pcb",
+ "extras": [
+  "routed_pcb/mx_gateron_lp_hotswap/board.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 16,
+ "url": "https://github.com/ezxzeng/sweep_squared_rot/blob/8429f6934a76b31c220b228cfafe3b7fb716fd08/routed_pcb/mx_gateron_lp_hotswap/board.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

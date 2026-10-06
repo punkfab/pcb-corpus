@@ -1,0 +1,13 @@
+{
+ "repo": "ChrisChrisLoLo/loongcat40",
+ "commit": "6743b568de3bde1e57653c039e094765f6d76285",
+ "path": "pcb/loongcat40/loongcat40.kicad_pcb",
+ "extras": [
+  "pcb/loongcat40/loongcat40.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 40,
+ "url": "https://github.com/ChrisChrisLoLo/loongcat40/blob/6743b568de3bde1e57653c039e094765f6d76285/pcb/loongcat40/loongcat40.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

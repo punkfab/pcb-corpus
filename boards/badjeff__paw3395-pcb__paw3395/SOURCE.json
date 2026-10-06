@@ -1,0 +1,13 @@
+{
+ "repo": "badjeff/paw3395-pcb",
+ "commit": "b71e346fc04ef18c26e0e8638ce0333395d41a14",
+ "path": "paw3395.kicad_pcb",
+ "extras": [
+  "paw3395.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 41,
+ "url": "https://github.com/badjeff/paw3395-pcb/blob/b71e346fc04ef18c26e0e8638ce0333395d41a14/paw3395.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

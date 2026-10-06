@@ -1,0 +1,13 @@
+{
+ "repo": "kkckrnz/treble",
+ "commit": "8331d464c5ed022c7c6651ce4ac48201cc1715ac",
+ "path": "kicad/treble_v1.0/treble.kicad_pcb",
+ "extras": [
+  "kicad/treble_v1.0/treble.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 17,
+ "url": "https://github.com/kkckrnz/treble/blob/8331d464c5ed022c7c6651ce4ac48201cc1715ac/kicad/treble_v1.0/treble.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

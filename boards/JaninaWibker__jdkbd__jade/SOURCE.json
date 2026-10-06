@@ -1,0 +1,13 @@
+{
+ "repo": "JaninaWibker/jdkbd",
+ "commit": "3145d737d7a7636b7109cef00afed19d83b5464a",
+ "path": "jade/jade.kicad_pcb",
+ "extras": [
+  "jade/jade.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 11,
+ "url": "https://github.com/JaninaWibker/jdkbd/blob/3145d737d7a7636b7109cef00afed19d83b5464a/jade/jade.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

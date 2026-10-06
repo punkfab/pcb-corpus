@@ -1,0 +1,13 @@
+{
+ "repo": "espena/dual-button-doorbell",
+ "commit": "f5ea69f8906694e4f9622a884c5e71e10d13d569",
+ "path": "door_bell.kicad_pcb",
+ "extras": [
+  "door_bell.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 27,
+ "url": "https://github.com/espena/dual-button-doorbell/blob/f5ea69f8906694e4f9622a884c5e71e10d13d569/door_bell.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "siderakb/pmw3360-pcb",
+ "commit": "cd8874d863a454403262b8525a7f16351b66f0b8",
+ "path": "pmw3360_pcb_jst/pmw3360_pcb_jst.kicad_pcb",
+ "extras": [
+  "pmw3360_pcb_jst/pmw3360_pcb_jst.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 194,
+ "url": "https://github.com/siderakb/pmw3360-pcb/blob/cd8874d863a454403262b8525a7f16351b66f0b8/pmw3360_pcb_jst/pmw3360_pcb_jst.kicad_pcb",
+ "licence_file": "LICENSE-CERN-OHL-P",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

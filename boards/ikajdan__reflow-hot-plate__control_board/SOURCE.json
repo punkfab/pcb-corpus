@@ -1,0 +1,13 @@
+{
+ "repo": "ikajdan/reflow-hot-plate",
+ "commit": "d010bf531b21eb3f7932e7c0831125a53e426cb1",
+ "path": "hardware/control_board/control_board.kicad_pcb",
+ "extras": [
+  "hardware/control_board/control_board.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 14,
+ "url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/hardware/control_board/control_board.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

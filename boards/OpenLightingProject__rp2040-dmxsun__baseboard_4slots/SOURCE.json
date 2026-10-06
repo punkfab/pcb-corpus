@@ -1,0 +1,13 @@
+{
+ "repo": "OpenLightingProject/rp2040-dmxsun",
+ "commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+ "path": "hardware/baseboard_4slots/baseboard_4slots.kicad_pcb",
+ "extras": [
+  "hardware/baseboard_4slots/baseboard_4slots.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 128,
+ "url": "https://github.com/OpenLightingProject/rp2040-dmxsun/blob/f3b1749c982da85770dc9a11eada035404edc25d/hardware/baseboard_4slots/baseboard_4slots.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

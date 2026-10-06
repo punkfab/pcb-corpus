@@ -1,0 +1,13 @@
+{
+ "repo": "KabukiFlux/JAMMA_2player_xbox360",
+ "commit": "22980aeb0d350f395b76f14ed5f3d8593bbeff41",
+ "path": "KiCAD/Jamma_rgbuntu_xbox360.kicad_pcb",
+ "extras": [
+  "KiCAD/Jamma_rgbuntu_xbox360.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 17,
+ "url": "https://github.com/KabukiFlux/JAMMA_2player_xbox360/blob/22980aeb0d350f395b76f14ed5f3d8593bbeff41/KiCAD/Jamma_rgbuntu_xbox360.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

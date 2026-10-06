@@ -1,0 +1,14 @@
+{
+ "repo": "lambdakb/trackball-lt6c",
+ "commit": "2328841de21d646e5fa739f153b63118d66e7699",
+ "path": "pcb/lt6c-pcb.kicad_pcb",
+ "extras": [
+  "pcb/lt6c-pcb.kicad_pro",
+  "pcb/lt6c-pcb.kicad_dru"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 9,
+ "url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/pcb/lt6c-pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

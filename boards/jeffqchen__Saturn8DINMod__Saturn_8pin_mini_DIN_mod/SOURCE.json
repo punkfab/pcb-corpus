@@ -1,0 +1,13 @@
+{
+ "repo": "jeffqchen/Saturn8DINMod",
+ "commit": "454e52fb6719a514f154a3c5246c0c5bedd16639",
+ "path": "KiCAD/Saturn 8pin mini DIN mod.kicad_pcb",
+ "extras": [
+  "KiCAD/Saturn 8pin mini DIN mod.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 25,
+ "url": "https://github.com/jeffqchen/Saturn8DINMod/blob/454e52fb6719a514f154a3c5246c0c5bedd16639/KiCAD/Saturn 8pin mini DIN mod.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

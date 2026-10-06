@@ -1,0 +1,14 @@
+{
+ "repo": "siderakb/rp-micro",
+ "commit": "a7baf36025b974ed55b4676ad1e9f7e79f16bba1",
+ "path": "hardware/rp-micro.kicad_pcb",
+ "extras": [
+  "hardware/rp-micro.kicad_pro",
+  "hardware/rp-micro.kicad_dru"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 65,
+ "url": "https://github.com/siderakb/rp-micro/blob/a7baf36025b974ed55b4676ad1e9f7e79f16bba1/hardware/rp-micro.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

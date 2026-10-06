@@ -1,0 +1,13 @@
+{
+ "repo": "bbogush/nand_programmer",
+ "commit": "4d840b7afff7c1a1c02eacce3a72761cd0f58c93",
+ "path": "kicad/nand_programmator.kicad_pcb",
+ "extras": [
+  "kicad/nand_programmator.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 389,
+ "url": "https://github.com/bbogush/nand_programmer/blob/4d840b7afff7c1a1c02eacce3a72761cd0f58c93/kicad/nand_programmator.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

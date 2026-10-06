@@ -1,0 +1,13 @@
+{
+ "repo": "fxkuehl/mantis",
+ "commit": "c89ad02468c95bb6960cbd860d6abbe0f809cd01",
+ "path": "pcb/mantis_raised_leds.kicad_pcb",
+ "extras": [
+  "pcb/mantis_raised_leds.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 144,
+ "url": "https://github.com/fxkuehl/mantis/blob/c89ad02468c95bb6960cbd860d6abbe0f809cd01/pcb/mantis_raised_leds.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

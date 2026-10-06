@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/anotter-sensor-hub",
+ "commit": "37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1",
+ "path": "anotter-sensor-hub.kicad_pcb",
+ "extras": [
+  "anotter-sensor-hub.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 101,
+ "url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/anotter-sensor-hub.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

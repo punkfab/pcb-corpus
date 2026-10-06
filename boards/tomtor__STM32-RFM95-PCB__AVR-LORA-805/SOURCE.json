@@ -1,0 +1,13 @@
+{
+ "repo": "tomtor/STM32-RFM95-PCB",
+ "commit": "5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf",
+ "path": "AVR-LORA-805.kicad_pcb",
+ "extras": [
+  "AVR-LORA-805.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 20,
+ "url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/AVR-LORA-805.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "stack-chan/stack-chan",
+ "commit": "2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d",
+ "path": "schematics/m5-pantilt/m5-pantilt.kicad_pcb",
+ "extras": [
+  "schematics/m5-pantilt/m5-pantilt.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 1748,
+ "url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/schematics/m5-pantilt/m5-pantilt.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

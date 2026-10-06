@@ -1,0 +1,13 @@
+{
+ "repo": "DuBento/puffer",
+ "commit": "e288155c1c43fd52f8dade53253e152bc546906e",
+ "path": "pcb/puffer.kicad_pcb",
+ "extras": [
+  "pcb/puffer.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 17,
+ "url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/pcb/puffer.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

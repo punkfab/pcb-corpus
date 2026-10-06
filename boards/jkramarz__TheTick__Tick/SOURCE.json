@@ -1,0 +1,13 @@
+{
+ "repo": "jkramarz/TheTick",
+ "commit": "74d8d6b81eab4fd260727502a72f293ef94791cf",
+ "path": "hardware/Tick.kicad_pcb",
+ "extras": [
+  "hardware/Tick.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 183,
+ "url": "https://github.com/jkramarz/TheTick/blob/74d8d6b81eab4fd260727502a72f293ef94791cf/hardware/Tick.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

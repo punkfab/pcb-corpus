@@ -1,0 +1,13 @@
+{
+ "repo": "techy-robot/Mighty-Micro-Motors",
+ "commit": "8bfaabd3ca5a2f096687f65f07bc4e7a446bae65",
+ "path": "Kicad/stm32g070 and DRV8311 single motor board - V1 Alpha/stm32g070 and DRV8311 single motor board - V1 Alpha.kicad_pcb",
+ "extras": [
+  "Kicad/stm32g070 and DRV8311 single motor board - V1 Alpha/stm32g070 and DRV8311 single motor board - V1 Alpha.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 12,
+ "url": "https://github.com/techy-robot/Mighty-Micro-Motors/blob/8bfaabd3ca5a2f096687f65f07bc4e7a446bae65/Kicad/stm32g070 and DRV8311 single motor board - V1 Alpha/stm32g070 and DRV8311 single motor board - V1 Alpha.kicad_pcb",
+ "licence_file": "LICENSE.CERN-OHL-S",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

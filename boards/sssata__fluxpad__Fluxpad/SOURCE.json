@@ -1,0 +1,13 @@
+{
+ "repo": "sssata/fluxpad",
+ "commit": "8b2e752136033a81b9da01566e2e36ccafb966d6",
+ "path": "ECAD/FluxpadKicad/Fluxpad.kicad_pcb",
+ "extras": [
+  "ECAD/FluxpadKicad/Fluxpad.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 43,
+ "url": "https://github.com/sssata/fluxpad/blob/8b2e752136033a81b9da01566e2e36ccafb966d6/ECAD/FluxpadKicad/Fluxpad.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

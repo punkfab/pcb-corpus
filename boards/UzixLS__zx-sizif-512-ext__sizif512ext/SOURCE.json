@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/zx-sizif-512-ext",
+ "commit": "3083dcbbc1578d26cb1e1ea08bd2bad61be581a8",
+ "path": "pcb/rev.A1/sizif512ext.kicad_pcb",
+ "extras": [
+  "pcb/rev.A1/sizif512ext.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 19,
+ "url": "https://github.com/UzixLS/zx-sizif-512-ext/blob/3083dcbbc1578d26cb1e1ea08bd2bad61be581a8/pcb/rev.A1/sizif512ext.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "leomanangka/esp32-4-channel-relays",
+ "commit": "3c7d3b1eb80e781737f5ec5bed8cc10faca1ca0c",
+ "path": "esp32-4-channel-relays.kicad_pcb",
+ "extras": [
+  "esp32-4-channel-relays.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 70,
+ "url": "https://github.com/leomanangka/esp32-4-channel-relays/blob/3c7d3b1eb80e781737f5ec5bed8cc10faca1ca0c/esp32-4-channel-relays.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

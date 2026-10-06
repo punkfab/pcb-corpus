@@ -1,0 +1,13 @@
+{
+ "repo": "atonizzo/seatalk_wifi",
+ "commit": "9c18c1f3d418caf6bba024d145b0292354519ec6",
+ "path": "hw/seatalk_wifi.kicad_pcb",
+ "extras": [
+  "hw/seatalk_wifi.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 12,
+ "url": "https://github.com/atonizzo/seatalk_wifi/blob/9c18c1f3d418caf6bba024d145b0292354519ec6/hw/seatalk_wifi.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

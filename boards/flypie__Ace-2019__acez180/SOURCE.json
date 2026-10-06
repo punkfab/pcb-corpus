@@ -1,0 +1,13 @@
+{
+ "repo": "flypie/Ace-2019",
+ "commit": "c3d76f6973a3ea9964db9371495de938360f4000",
+ "path": "KiCad/ACEZ180/acez180.kicad_pcb",
+ "extras": [
+  "KiCad/ACEZ180/acez180.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 13,
+ "url": "https://github.com/flypie/Ace-2019/blob/c3d76f6973a3ea9964db9371495de938360f4000/KiCad/ACEZ180/acez180.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

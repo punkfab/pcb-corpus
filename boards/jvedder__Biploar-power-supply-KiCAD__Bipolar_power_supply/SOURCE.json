@@ -1,0 +1,13 @@
+{
+ "repo": "jvedder/Biploar-power-supply-KiCAD",
+ "commit": "dbc2c6033f98b8297a6a8a4374471db937e0404e",
+ "path": "Bipolar power supply.kicad_pcb",
+ "extras": [
+  "Bipolar power supply.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 6,
+ "url": "https://github.com/jvedder/Biploar-power-supply-KiCAD/blob/dbc2c6033f98b8297a6a8a4374471db937e0404e/Bipolar power supply.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

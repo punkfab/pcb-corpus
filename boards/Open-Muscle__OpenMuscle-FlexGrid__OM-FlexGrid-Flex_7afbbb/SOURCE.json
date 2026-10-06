@@ -1,0 +1,13 @@
+{
+ "repo": "Open-Muscle/OpenMuscle-FlexGrid",
+ "commit": "912e6e615c1f123141933a465c620f1a636692f0",
+ "path": "KiCad/OM-FlexGrid V1/OM-FlexGrid-Flex/OM-FlexGrid-Flex.kicad_pcb",
+ "extras": [
+  "KiCad/OM-FlexGrid V1/OM-FlexGrid-Flex/OM-FlexGrid-Flex.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 19,
+ "url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/KiCad/OM-FlexGrid V1/OM-FlexGrid-Flex/OM-FlexGrid-Flex.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

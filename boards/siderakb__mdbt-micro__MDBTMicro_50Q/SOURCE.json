@@ -1,0 +1,13 @@
+{
+ "repo": "siderakb/mdbt-micro",
+ "commit": "7821d9046258f650ddf8d9424e21c6a3fc065c32",
+ "path": "MDBTMicro_50Q/MDBTMicro_50Q.kicad_pcb",
+ "extras": [
+  "MDBTMicro_50Q/MDBTMicro_50Q.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 18,
+ "url": "https://github.com/siderakb/mdbt-micro/blob/7821d9046258f650ddf8d9424e21c6a3fc065c32/MDBTMicro_50Q/MDBTMicro_50Q.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

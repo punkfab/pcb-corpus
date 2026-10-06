@@ -1,0 +1,13 @@
+{
+ "repo": "10-X-eng/KiChad",
+ "commit": "eac3b3929404e7587bbe6d9a84fbe953b903789f",
+ "path": "demos/complex_hierarchy/complex_hierarchy.kicad_pcb",
+ "extras": [
+  "demos/complex_hierarchy/complex_hierarchy.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 22,
+ "url": "https://github.com/10-X-eng/KiChad/blob/eac3b3929404e7587bbe6d9a84fbe953b903789f/demos/complex_hierarchy/complex_hierarchy.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

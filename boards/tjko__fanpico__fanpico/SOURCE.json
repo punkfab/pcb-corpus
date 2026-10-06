@@ -1,0 +1,13 @@
+{
+ "repo": "tjko/fanpico",
+ "commit": "260934f589553142f552527fe24959fdd24c700b",
+ "path": "boards/fanpico-0804/kicad/fanpico.kicad_pcb",
+ "extras": [
+  "boards/fanpico-0804/kicad/fanpico.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 238,
+ "url": "https://github.com/tjko/fanpico/blob/260934f589553142f552527fe24959fdd24c700b/boards/fanpico-0804/kicad/fanpico.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

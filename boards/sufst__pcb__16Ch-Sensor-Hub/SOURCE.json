@@ -1,0 +1,13 @@
+{
+ "repo": "sufst/pcb",
+ "commit": "70456059d4c90443398f32a8662464a85a6c0b63",
+ "path": "sensor-hub/16Ch-Sensor-Hub.kicad_pcb",
+ "extras": [
+  "sensor-hub/16Ch-Sensor-Hub.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 19,
+ "url": "https://github.com/sufst/pcb/blob/70456059d4c90443398f32a8662464a85a6c0b63/sensor-hub/16Ch-Sensor-Hub.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "galopago/misistemita",
+ "commit": "4ff8ffb8ad80d6836cf9cbfcf74dfce9c9a24ba3",
+ "path": "c-breakouts/c12/C12.kicad_pcb",
+ "extras": [
+  "c-breakouts/c12/C12.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 47,
+ "url": "https://github.com/galopago/misistemita/blob/4ff8ffb8ad80d6836cf9cbfcf74dfce9c9a24ba3/c-breakouts/c12/C12.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "dnlbauer/corax-keyboard",
+ "commit": "7e01724621f12f1c1099f78c978bcb6aca19b795",
+ "path": "corax54/pcbs/pcbs/keyboard.kicad_pcb",
+ "extras": [
+  "corax54/pcbs/pcbs/keyboard.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 144,
+ "url": "https://github.com/dnlbauer/corax-keyboard/blob/7e01724621f12f1c1099f78c978bcb6aca19b795/corax54/pcbs/pcbs/keyboard.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

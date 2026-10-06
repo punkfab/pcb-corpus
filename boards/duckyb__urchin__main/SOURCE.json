@@ -1,0 +1,13 @@
+{
+ "repo": "duckyb/urchin",
+ "commit": "02b1ab1315f3560f637eeaa8f375541f4fa621b9",
+ "path": "main.kicad_pcb",
+ "extras": [
+  "main.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 596,
+ "url": "https://github.com/duckyb/urchin/blob/02b1ab1315f3560f637eeaa8f375541f4fa621b9/main.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

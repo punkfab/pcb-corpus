@@ -1,0 +1,14 @@
+{
+ "repo": "siderakb/ergo-snm-keyboard",
+ "commit": "20e9e51e9f52749140369968b2bf5e741bf063b0",
+ "path": "ErgoSNM_Keyboard/rev2/right/ErgoSNM_right.kicad_pcb",
+ "extras": [
+  "ErgoSNM_Keyboard/rev2/right/ErgoSNM_right.kicad_pro",
+  "ErgoSNM_Keyboard/rev2/right/ErgoSNM_right.kicad_dru"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 170,
+ "url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/ErgoSNM_Keyboard/rev2/right/ErgoSNM_right.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

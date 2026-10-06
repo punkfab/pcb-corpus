@@ -1,0 +1,13 @@
+{
+ "repo": "AutopilotPi/AutoPilotPi-Hardware",
+ "commit": "4e645e7ffab37204f6c5a48db6ec6ca25803c6ba",
+ "path": "AutoPilotPi.kicad_pcb",
+ "extras": [
+  "AutoPilotPi.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 35,
+ "url": "https://github.com/AutopilotPi/AutoPilotPi-Hardware/blob/4e645e7ffab37204f6c5a48db6ec6ca25803c6ba/AutoPilotPi.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

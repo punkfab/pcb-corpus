@@ -1,0 +1,13 @@
+{
+ "repo": "Ladniy/TK44",
+ "commit": "b4f470cccce0f2e080851dd49cce4b4010973f2a",
+ "path": "pcb/TK44/TK44.kicad_pcb",
+ "extras": [
+  "pcb/TK44/TK44.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 45,
+ "url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/pcb/TK44/TK44.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

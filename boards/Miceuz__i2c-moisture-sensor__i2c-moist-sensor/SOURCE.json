@@ -1,0 +1,13 @@
+{
+ "repo": "Miceuz/i2c-moisture-sensor",
+ "commit": "c687328d2fdbe45b1b6c9d6b92627460e9f3167d",
+ "path": "i2c-moist-sensor.kicad_pcb",
+ "extras": [
+  "i2c-moist-sensor.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 258,
+ "url": "https://github.com/Miceuz/i2c-moisture-sensor/blob/c687328d2fdbe45b1b6c9d6b92627460e9f3167d/i2c-moist-sensor.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

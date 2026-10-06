@@ -1,0 +1,13 @@
+{
+ "repo": "GuitarML/GuitarPedalSTM32",
+ "commit": "72dfd26114fa515f8440eb86c7d32173be304a98",
+ "path": "hardware/STM32H7B0_GuitarPedal/STM32H7_GuitarPedal.kicad_pcb",
+ "extras": [
+  "hardware/STM32H7B0_GuitarPedal/STM32H7_GuitarPedal.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 46,
+ "url": "https://github.com/GuitarML/GuitarPedalSTM32/blob/72dfd26114fa515f8440eb86c7d32173be304a98/hardware/STM32H7B0_GuitarPedal/STM32H7_GuitarPedal.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

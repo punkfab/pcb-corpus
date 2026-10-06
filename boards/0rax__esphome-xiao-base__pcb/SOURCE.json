@@ -1,0 +1,14 @@
+{
+ "repo": "0rax/esphome-xiao-base",
+ "commit": "78860abf7bdc75d063a814d034c8a73450b5faa4",
+ "path": "pcb/pcb.kicad_pcb",
+ "extras": [
+  "pcb/pcb.kicad_pro",
+  "pcb/pcb.kicad_dru"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 5,
+ "url": "https://github.com/0rax/esphome-xiao-base/blob/78860abf7bdc75d063a814d034c8a73450b5faa4/pcb/pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "pcbcupid/Kicad-7-Series",
+ "commit": "b238f8e5d67399d43a7bb0dc4f6e7acb7c812059",
+ "path": "12_KiCad_Gerber_Generation/Schematics.kicad_pcb",
+ "extras": [
+  "12_KiCad_Gerber_Generation/Schematics.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 37,
+ "url": "https://github.com/pcbcupid/Kicad-7-Series/blob/b238f8e5d67399d43a7bb0dc4f6e7acb7c812059/12_KiCad_Gerber_Generation/Schematics.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

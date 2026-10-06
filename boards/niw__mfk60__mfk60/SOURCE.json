@@ -1,0 +1,13 @@
+{
+ "repo": "niw/mfk60",
+ "commit": "9b48f0ad7491d3c423d02cf9daf7dcd99cde7e2a",
+ "path": "mfk60.kicad_pcb",
+ "extras": [
+  "mfk60.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 12,
+ "url": "https://github.com/niw/mfk60/blob/9b48f0ad7491d3c423d02cf9daf7dcd99cde7e2a/mfk60.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

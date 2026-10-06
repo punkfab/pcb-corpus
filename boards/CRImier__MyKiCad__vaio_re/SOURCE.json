@@ -1,0 +1,13 @@
+{
+ "repo": "CRImier/MyKiCad",
+ "commit": "4f01eaa6b3b0a269570c711e58ba4bf0f8446d11",
+ "path": "Reverse-engineering/sony_vaio_p_re/vaio_re.kicad_pcb",
+ "extras": [
+  "Reverse-engineering/sony_vaio_p_re/vaio_re.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 253,
+ "url": "https://github.com/CRImier/MyKiCad/blob/4f01eaa6b3b0a269570c711e58ba4bf0f8446d11/Reverse-engineering/sony_vaio_p_re/vaio_re.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "stas2k/galspanic",
+ "commit": "b90ae3bb29a3ca4bceba48cc3b01dd7f7ca8adb1",
+ "path": "galspanic.kicad_pcb",
+ "extras": [
+  "galspanic.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 44,
+ "url": "https://github.com/stas2k/galspanic/blob/b90ae3bb29a3ca4bceba48cc3b01dd7f7ca8adb1/galspanic.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "YC-Lam/IP5328P-powerbank_design",
+ "commit": "5ee7f8beab0850d2a474630bbdaf65c30a711808",
+ "path": "usbpd_powerbank.kicad_pcb",
+ "extras": [
+  "usbpd_powerbank.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 58,
+ "url": "https://github.com/YC-Lam/IP5328P-powerbank_design/blob/5ee7f8beab0850d2a474630bbdaf65c30a711808/usbpd_powerbank.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

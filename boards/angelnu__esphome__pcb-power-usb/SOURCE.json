@@ -1,0 +1,13 @@
+{
+ "repo": "angelnu/esphome",
+ "commit": "ad19ea14031634deeee4e6820c2e613fb215778e",
+ "path": "devices/pcb-power-usb/kicad/pcb-power-usb/pcb-power-usb.kicad_pcb",
+ "extras": [
+  "devices/pcb-power-usb/kicad/pcb-power-usb/pcb-power-usb.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 24,
+ "url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/devices/pcb-power-usb/kicad/pcb-power-usb/pcb-power-usb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

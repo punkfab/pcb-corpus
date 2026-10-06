@@ -1,0 +1,13 @@
+{
+ "repo": "TweetyDaBird/Little-Big-Scroll",
+ "commit": "97dc5f4876bb283ea938eaba5a553b861abf4b4e",
+ "path": "Little Big Scroll 6/V1.01/PCB/Little Big Scroll 6.kicad_pcb",
+ "extras": [
+  "Little Big Scroll 6/V1.01/PCB/Little Big Scroll 6.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 55,
+ "url": "https://github.com/TweetyDaBird/Little-Big-Scroll/blob/97dc5f4876bb283ea938eaba5a553b861abf4b4e/Little Big Scroll 6/V1.01/PCB/Little Big Scroll 6.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

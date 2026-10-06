@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/ligra",
+ "commit": "8a98f3938c20fe3ed07bfb34e7d43f243e21f519",
+ "path": "ligra_back/ligra_back.kicad_pcb",
+ "extras": [
+  "ligra_back/ligra_back.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 215,
+ "url": "https://github.com/Jana-Marie/ligra/blob/8a98f3938c20fe3ed07bfb34e7d43f243e21f519/ligra_back/ligra_back.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

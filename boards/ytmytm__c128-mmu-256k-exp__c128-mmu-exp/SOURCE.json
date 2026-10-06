@@ -1,0 +1,13 @@
+{
+ "repo": "ytmytm/c128-mmu-256k-exp",
+ "commit": "15735245d879817672a36be219731ce041e0572d",
+ "path": "c128-mmu-exp-ttl/c128-mmu-exp.kicad_pcb",
+ "extras": [
+  "c128-mmu-exp-ttl/c128-mmu-exp.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 26,
+ "url": "https://github.com/ytmytm/c128-mmu-256k-exp/blob/15735245d879817672a36be219731ce041e0572d/c128-mmu-exp-ttl/c128-mmu-exp.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "jangtrinh/design-os-3d-blender",
+ "commit": "0fa32f46f261009f14cf318c8c4b3137f210a667",
+ "path": "docs/reviews/dc-01/r02/cad/desktop-companion.kicad_pcb",
+ "extras": [
+  "docs/reviews/dc-01/r02/cad/desktop-companion.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 89,
+ "url": "https://github.com/jangtrinh/design-os-3d-blender/blob/0fa32f46f261009f14cf318c8c4b3137f210a667/docs/reviews/dc-01/r02/cad/desktop-companion.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

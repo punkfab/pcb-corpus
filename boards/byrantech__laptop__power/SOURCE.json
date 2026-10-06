@@ -1,0 +1,14 @@
+{
+ "repo": "byrantech/laptop",
+ "commit": "007e853d2f83b203596a4d7961429e91b77840d3",
+ "path": "power/power.kicad_pcb",
+ "extras": [
+  "power/power.kicad_pro",
+  "power/power.kicad_dru"
+ ],
+ "licence": "MIT",
+ "stars": 4259,
+ "url": "https://github.com/byrantech/laptop/blob/007e853d2f83b203596a4d7961429e91b77840d3/power/power.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

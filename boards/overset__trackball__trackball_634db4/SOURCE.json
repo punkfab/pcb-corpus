@@ -1,0 +1,13 @@
+{
+ "repo": "overset/trackball",
+ "commit": "3f891175c79be83c40a5d55cc34265002f43ee25",
+ "path": "PCB-single/trackball.kicad_pcb",
+ "extras": [
+  "PCB-single/trackball.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 11,
+ "url": "https://github.com/overset/trackball/blob/3f891175c79be83c40a5d55cc34265002f43ee25/PCB-single/trackball.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

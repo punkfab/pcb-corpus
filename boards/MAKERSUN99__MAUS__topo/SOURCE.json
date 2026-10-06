@@ -1,0 +1,13 @@
+{
+ "repo": "MAKERSUN99/MAUS",
+ "commit": "dd063841cfb87142c6eca14eb32629ddde7397c3",
+ "path": "HARDWARE/topo.kicad_pcb",
+ "extras": [
+  "HARDWARE/topo.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 40,
+ "url": "https://github.com/MAKERSUN99/MAUS/blob/dd063841cfb87142c6eca14eb32629ddde7397c3/HARDWARE/topo.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

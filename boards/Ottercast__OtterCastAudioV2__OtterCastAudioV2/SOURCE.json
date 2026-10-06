@@ -1,0 +1,13 @@
+{
+ "repo": "Ottercast/OtterCastAudioV2",
+ "commit": "199395d7249aaf12432e42bff828dd665546d6a4",
+ "path": "OtterCastAudioV2.kicad_pcb",
+ "extras": [
+  "OtterCastAudioV2.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 667,
+ "url": "https://github.com/Ottercast/OtterCastAudioV2/blob/199395d7249aaf12432e42bff828dd665546d6a4/OtterCastAudioV2.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

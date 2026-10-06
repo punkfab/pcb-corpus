@@ -1,0 +1,14 @@
+{
+ "repo": "DIYSynthMNL/Eurorack-Multi-Saturation-Module",
+ "commit": "281ab92a5fad830589a045e4be12e66a5104dbd5",
+ "path": "kicad/Separate boards/rev 0.1/Multiboard_Separate_Board_A/Multi saturation module_board_a.kicad_pcb",
+ "extras": [
+  "kicad/Separate boards/rev 0.1/Multiboard_Separate_Board_A/Multi saturation module_board_a.kicad_pro",
+  "kicad/Separate boards/rev 0.1/Multiboard_Separate_Board_A/Multi saturation module_board_a.kicad_dru"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 23,
+ "url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/kicad/Separate boards/rev 0.1/Multiboard_Separate_Board_A/Multi saturation module_board_a.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

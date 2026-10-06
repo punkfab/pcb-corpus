@@ -1,0 +1,13 @@
+{
+ "repo": "w4b-zero/ESP32_mini_8Port_WLED",
+ "commit": "20e67d2af4c0477d914422c0218b06a9a4340939",
+ "path": "ESP32_mini_8Port_WLED.kicad_pcb",
+ "extras": [
+  "ESP32_mini_8Port_WLED.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 16,
+ "url": "https://github.com/w4b-zero/ESP32_mini_8Port_WLED/blob/20e67d2af4c0477d914422c0218b06a9a4340939/ESP32_mini_8Port_WLED.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

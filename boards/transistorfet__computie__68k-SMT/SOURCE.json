@@ -1,0 +1,13 @@
+{
+ "repo": "transistorfet/computie",
+ "commit": "760e1b8046cc8e6e2dc9e471a0c6300c68ef26fe",
+ "path": "hardware/68k-SMT/68k-SMT.kicad_pcb",
+ "extras": [
+  "hardware/68k-SMT/68k-SMT.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 69,
+ "url": "https://github.com/transistorfet/computie/blob/760e1b8046cc8e6e2dc9e471a0c6300c68ef26fe/hardware/68k-SMT/68k-SMT.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

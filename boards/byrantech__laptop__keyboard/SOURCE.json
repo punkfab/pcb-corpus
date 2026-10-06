@@ -1,0 +1,13 @@
+{
+ "repo": "byrantech/laptop",
+ "commit": "007e853d2f83b203596a4d7961429e91b77840d3",
+ "path": "keyboard/keyboard.kicad_pcb",
+ "extras": [
+  "keyboard/keyboard.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 4259,
+ "url": "https://github.com/byrantech/laptop/blob/007e853d2f83b203596a4d7961429e91b77840d3/keyboard/keyboard.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

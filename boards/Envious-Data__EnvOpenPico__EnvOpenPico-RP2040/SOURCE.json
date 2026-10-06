@@ -1,0 +1,13 @@
+{
+ "repo": "Envious-Data/EnvOpenPico",
+ "commit": "a88e551b400957efdab86bd4c97ebabbf63c78fd",
+ "path": "RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pcb",
+ "extras": [
+  "RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 151,
+ "url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

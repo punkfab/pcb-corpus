@@ -1,0 +1,13 @@
+{
+ "repo": "k0swe/mountaineer",
+ "commit": "0555552a2d3ea741fc4acc02a837dffa03b8e9bb",
+ "path": "mountaineer.kicad_pcb",
+ "extras": [
+  "mountaineer.kicad_pro"
+ ],
+ "licence": "CC-BY-4.0",
+ "stars": 20,
+ "url": "https://github.com/k0swe/mountaineer/blob/0555552a2d3ea741fc4acc02a837dffa03b8e9bb/mountaineer.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

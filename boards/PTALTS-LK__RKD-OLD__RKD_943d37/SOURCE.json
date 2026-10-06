@@ -1,0 +1,13 @@
+{
+ "repo": "PTALTS-LK/RKD-OLD",
+ "commit": "6de58651df272a850bf6061d888790c9b974a8fd",
+ "path": "PCB/stand+sdvx/MicroUSB/RKD.kicad_pcb",
+ "extras": [
+  "PCB/stand+sdvx/MicroUSB/RKD.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 41,
+ "url": "https://github.com/PTALTS-LK/RKD-OLD/blob/6de58651df272a850bf6061d888790c9b974a8fd/PCB/stand+sdvx/MicroUSB/RKD.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

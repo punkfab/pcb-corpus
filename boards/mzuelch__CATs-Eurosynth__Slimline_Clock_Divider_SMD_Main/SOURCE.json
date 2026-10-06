@@ -1,0 +1,13 @@
+{
+ "repo": "mzuelch/CATs-Eurosynth",
+ "commit": "ee70506817f1fb5fa16a87c3e2a54a6ded8ee441",
+ "path": "Modules/Slim Line/Clock Divider/Electronics/Main/Slimline Clock Divider SMD Main.kicad_pcb",
+ "extras": [
+  "Modules/Slim Line/Clock Divider/Electronics/Main/Slimline Clock Divider SMD Main.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 165,
+ "url": "https://github.com/mzuelch/CATs-Eurosynth/blob/ee70506817f1fb5fa16a87c3e2a54a6ded8ee441/Modules/Slim Line/Clock Divider/Electronics/Main/Slimline Clock Divider SMD Main.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

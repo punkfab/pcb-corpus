@@ -1,0 +1,13 @@
+{
+ "repo": "buildwithtrace/trace",
+ "commit": "e48d9a7f52d65e900a801369903e3484ecf3e114",
+ "path": "demos/multichannel/multichannel_mixer.kicad_pcb",
+ "extras": [
+  "demos/multichannel/multichannel_mixer.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 57,
+ "url": "https://github.com/buildwithtrace/trace/blob/e48d9a7f52d65e900a801369903e3484ecf3e114/demos/multichannel/multichannel_mixer.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

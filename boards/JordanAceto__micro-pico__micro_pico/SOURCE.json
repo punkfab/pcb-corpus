@@ -1,0 +1,13 @@
+{
+ "repo": "JordanAceto/micro-pico",
+ "commit": "db0dd1ef577c030f92178ce4661d8089da9d8e99",
+ "path": "main_pcb/kicad_6/micro_pico.kicad_pcb",
+ "extras": [
+  "main_pcb/kicad_6/micro_pico.kicad_pro"
+ ],
+ "licence": "CC-BY-4.0",
+ "stars": 10,
+ "url": "https://github.com/JordanAceto/micro-pico/blob/db0dd1ef577c030f92178ce4661d8089da9d8e99/main_pcb/kicad_6/micro_pico.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "siderakb/calcite",
+ "commit": "7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1",
+ "path": "Calcite60/pcb_pcba/Calcite60.kicad_pcb",
+ "extras": [
+  "Calcite60/pcb_pcba/Calcite60.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 11,
+ "url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/Calcite60/pcb_pcba/Calcite60.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

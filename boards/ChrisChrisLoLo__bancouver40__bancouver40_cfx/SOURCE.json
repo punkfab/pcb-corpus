@@ -1,0 +1,13 @@
+{
+ "repo": "ChrisChrisLoLo/bancouver40",
+ "commit": "ff316e6f3eb91371fda0ae5a82a827710402f296",
+ "path": "pcb/bancouver40_cfx/bancouver40_cfx.kicad_pcb",
+ "extras": [
+  "pcb/bancouver40_cfx/bancouver40_cfx.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 112,
+ "url": "https://github.com/ChrisChrisLoLo/bancouver40/blob/ff316e6f3eb91371fda0ae5a82a827710402f296/pcb/bancouver40_cfx/bancouver40_cfx.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

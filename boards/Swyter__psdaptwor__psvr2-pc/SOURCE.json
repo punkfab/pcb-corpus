@@ -1,0 +1,13 @@
+{
+ "repo": "Swyter/psdaptwor",
+ "commit": "852b5b38cde3b527954e1e739cdd69325010086b",
+ "path": "psvr2-pc/psvr2-pc.kicad_pcb",
+ "extras": [
+  "psvr2-pc/psvr2-pc.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 22,
+ "url": "https://github.com/Swyter/psdaptwor/blob/852b5b38cde3b527954e1e739cdd69325010086b/psvr2-pc/psvr2-pc.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

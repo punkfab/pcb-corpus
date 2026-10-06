@@ -1,0 +1,13 @@
+{
+ "repo": "KabukiFlux/MIDI4MiSTer",
+ "commit": "ec68313e4b5a2be382f41cdfd56340fd08b3e9e6",
+ "path": "kicad/MIDI_4_MiSTer.kicad_pcb",
+ "extras": [
+  "kicad/MIDI_4_MiSTer.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 13,
+ "url": "https://github.com/KabukiFlux/MIDI4MiSTer/blob/ec68313e4b5a2be382f41cdfd56340fd08b3e9e6/kicad/MIDI_4_MiSTer.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

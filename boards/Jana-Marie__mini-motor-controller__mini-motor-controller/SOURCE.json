@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/mini-motor-controller",
+ "commit": "d8c1c296229caca3bbeba733bde94d9f0f1e931e",
+ "path": "mini-motor-controller.kicad_pcb",
+ "extras": [
+  "mini-motor-controller.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 13,
+ "url": "https://github.com/Jana-Marie/mini-motor-controller/blob/d8c1c296229caca3bbeba733bde94d9f0f1e931e/mini-motor-controller.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

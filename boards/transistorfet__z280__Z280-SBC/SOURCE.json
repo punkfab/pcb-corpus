@@ -1,0 +1,13 @@
+{
+ "repo": "transistorfet/z280",
+ "commit": "bf27f7d425d5fbfffb2e057a042e3cc80812f001",
+ "path": "hardware/Z280-SBC/Z280-SBC.kicad_pcb",
+ "extras": [
+  "hardware/Z280-SBC/Z280-SBC.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 11,
+ "url": "https://github.com/transistorfet/z280/blob/bf27f7d425d5fbfffb2e057a042e3cc80812f001/hardware/Z280-SBC/Z280-SBC.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

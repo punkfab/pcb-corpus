@@ -1,0 +1,13 @@
+{
+ "repo": "tjko/brickpico",
+ "commit": "25fd866a614e717459386faf5199a05df3b7fa68",
+ "path": "boards/brickpico-8/kicad/brickpico.kicad_pcb",
+ "extras": [
+  "boards/brickpico-8/kicad/brickpico.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 18,
+ "url": "https://github.com/tjko/brickpico/blob/25fd866a614e717459386faf5199a05df3b7fa68/boards/brickpico-8/kicad/brickpico.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

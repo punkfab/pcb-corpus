@@ -1,0 +1,13 @@
+{
+ "repo": "ojg/thatmicpre",
+ "commit": "c9735275db939b22bd7b8fc5899793add46f3683",
+ "path": "desktop/thatmicpre_v1.kicad_pcb",
+ "extras": [
+  "desktop/thatmicpre_v1.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 193,
+ "url": "https://github.com/ojg/thatmicpre/blob/c9735275db939b22bd7b8fc5899793add46f3683/desktop/thatmicpre_v1.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

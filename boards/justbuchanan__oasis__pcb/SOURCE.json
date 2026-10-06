@@ -1,0 +1,14 @@
+{
+ "repo": "justbuchanan/oasis",
+ "commit": "3462f162f80e11c78705218441af37639d87bfdc",
+ "path": "pcb/main/pcb.kicad_pcb",
+ "extras": [
+  "pcb/main/pcb.kicad_pro",
+  "pcb/main/pcb.kicad_dru"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 270,
+ "url": "https://github.com/justbuchanan/oasis/blob/3462f162f80e11c78705218441af37639d87bfdc/pcb/main/pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

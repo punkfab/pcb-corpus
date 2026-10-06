@@ -1,0 +1,13 @@
+{
+ "repo": "rhaamo/kicad-amiga2000",
+ "commit": "6942ca4427a91b5769a3da3eabb28740eff7665f",
+ "path": "amiga2000.kicad_pcb",
+ "extras": [
+  "amiga2000.kicad_pro"
+ ],
+ "licence": "CC0-1.0",
+ "stars": 33,
+ "url": "https://github.com/rhaamo/kicad-amiga2000/blob/6942ca4427a91b5769a3da3eabb28740eff7665f/amiga2000.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

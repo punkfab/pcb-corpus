@@ -1,0 +1,13 @@
+{
+ "repo": "Goga64/ULK",
+ "commit": "32fccf4621cc56d1907aa7889cb8d95d5e8625b5",
+ "path": "KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pcb",
+ "extras": [
+  "KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 57,
+ "url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

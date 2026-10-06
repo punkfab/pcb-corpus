@@ -1,0 +1,13 @@
+{
+ "repo": "Chrismettal/ESP-Hiro",
+ "commit": "7b2f021dce858ab22e94b242295dada4acbbb70b",
+ "path": "PCB/ESP-Hiro/ESP-Hiro.kicad_pcb",
+ "extras": [
+  "PCB/ESP-Hiro/ESP-Hiro.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 15,
+ "url": "https://github.com/Chrismettal/ESP-Hiro/blob/7b2f021dce858ab22e94b242295dada4acbbb70b/PCB/ESP-Hiro/ESP-Hiro.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "protolux-electronics/trellis_core",
+ "commit": "db4fe71623c14bcea47d7457d0db4c99d3899124",
+ "path": "src/trellis_core.kicad_pcb",
+ "extras": [
+  "src/trellis_core.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 10,
+ "url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/src/trellis_core.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

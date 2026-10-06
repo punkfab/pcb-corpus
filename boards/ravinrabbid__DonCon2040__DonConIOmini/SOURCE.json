@@ -1,0 +1,14 @@
+{
+ "repo": "ravinrabbid/DonCon2040",
+ "commit": "f6edcc2edcf1ff30bb5ebe515b26a70f7afb1d83",
+ "path": "pcb/DonConIOmini/DonConIOmini.kicad_pcb",
+ "extras": [
+  "pcb/DonConIOmini/DonConIOmini.kicad_pro",
+  "pcb/DonConIOmini/DonConIOmini.kicad_dru"
+ ],
+ "licence": "MIT",
+ "stars": 65,
+ "url": "https://github.com/ravinrabbid/DonCon2040/blob/f6edcc2edcf1ff30bb5ebe515b26a70f7afb1d83/pcb/DonConIOmini/DonConIOmini.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

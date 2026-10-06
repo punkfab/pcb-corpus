@@ -1,0 +1,13 @@
+{
+ "repo": "0xjmux/ESP-PROG-Adapter",
+ "commit": "4a74ef898489da83ddcd2ad42852188cf0471b6c",
+ "path": "PCB/ESPPROG-Adapter.kicad_pcb",
+ "extras": [
+  "PCB/ESPPROG-Adapter.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 55,
+ "url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/PCB/ESPPROG-Adapter.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

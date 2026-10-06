@@ -1,0 +1,13 @@
+{
+ "repo": "blueOkiris/ch552g-dev-board",
+ "commit": "011213b2495a5683aae0cd87299067c2f9b1a2df",
+ "path": "pcb/ch552g-dev-board.kicad_pcb",
+ "extras": [
+  "pcb/ch552g-dev-board.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 18,
+ "url": "https://github.com/blueOkiris/ch552g-dev-board/blob/011213b2495a5683aae0cd87299067c2f9b1a2df/pcb/ch552g-dev-board.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

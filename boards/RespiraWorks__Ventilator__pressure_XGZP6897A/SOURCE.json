@@ -1,0 +1,13 @@
+{
+ "repo": "RespiraWorks/Ventilator",
+ "commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+ "path": "pcb/sensor-daughterboards/pressure_XGZP6897A/pressure_XGZP6897A.kicad_pcb",
+ "extras": [
+  "pcb/sensor-daughterboards/pressure_XGZP6897A/pressure_XGZP6897A.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 168,
+ "url": "https://github.com/RespiraWorks/Ventilator/blob/6165c82de293d66b71f43040a2f145ab70bb49c0/pcb/sensor-daughterboards/pressure_XGZP6897A/pressure_XGZP6897A.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "atoomnetmarc/IoT12",
+ "commit": "1154267f27544549b1881297fec97138cbeeebdf",
+ "path": "hardware/Control Board/IoT12 Control Board.kicad_pcb",
+ "extras": [
+  "hardware/Control Board/IoT12 Control Board.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 14,
+ "url": "https://github.com/atoomnetmarc/IoT12/blob/1154267f27544549b1881297fec97138cbeeebdf/hardware/Control Board/IoT12 Control Board.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,14 @@
+{
+ "repo": "WibblyGhost/southerly-split-keeb",
+ "commit": "c8bf7f883a94113783672b88b8adae0414605e5b",
+ "path": "kicad_output_lh/southerly.kicad_pcb",
+ "extras": [
+  "kicad_output_lh/southerly.kicad_pro",
+  "kicad_output_lh/southerly.kicad_dru"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 17,
+ "url": "https://github.com/WibblyGhost/southerly-split-keeb/blob/c8bf7f883a94113783672b88b8adae0414605e5b/kicad_output_lh/southerly.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "skot/bitaxe",
+ "commit": "942bbd97aab09b12d826c6e82c64f3fb91246c4c",
+ "path": "bitaxeUltra.kicad_pcb",
+ "extras": [
+  "bitaxeUltra.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 1371,
+ "url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/bitaxeUltra.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

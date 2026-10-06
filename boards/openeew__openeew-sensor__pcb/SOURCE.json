@@ -1,0 +1,13 @@
+{
+ "repo": "openeew/openeew-sensor",
+ "commit": "b1fae4e89ca090c37aefb8ce166741464834da3f",
+ "path": "pcb/pcb.kicad_pcb",
+ "extras": [
+  "pcb/pcb.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 49,
+ "url": "https://github.com/openeew/openeew-sensor/blob/b1fae4e89ca090c37aefb8ce166741464834da3f/pcb/pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

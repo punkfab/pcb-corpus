@@ -1,0 +1,13 @@
+{
+ "repo": "beekeeb/piantor",
+ "commit": "cd847afb4f9a86e8c1c8e36f243140644013afb2",
+ "path": "pcb/right/keyboard_pcb.kicad_pcb",
+ "extras": [
+  "pcb/right/keyboard_pcb.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 867,
+ "url": "https://github.com/beekeeb/piantor/blob/cd847afb4f9a86e8c1c8e36f243140644013afb2/pcb/right/keyboard_pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

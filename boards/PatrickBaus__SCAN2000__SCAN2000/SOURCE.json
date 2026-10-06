@@ -1,0 +1,13 @@
+{
+ "repo": "PatrickBaus/SCAN2000",
+ "commit": "41fb4ee67ef8be336a642e199719f239d4784703",
+ "path": "SCAN2000.kicad_pcb",
+ "extras": [
+  "SCAN2000.kicad_pro"
+ ],
+ "licence": "CERN-OHL-W-2.0",
+ "stars": 16,
+ "url": "https://github.com/PatrickBaus/SCAN2000/blob/41fb4ee67ef8be336a642e199719f239d4784703/SCAN2000.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

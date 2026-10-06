@@ -1,0 +1,13 @@
+{
+ "repo": "Pippadi/combadge",
+ "commit": "1bcbc107b933cac1ac5d8c57c548683c93237cda",
+ "path": "hardware/pcb/Combadge.kicad_pcb",
+ "extras": [
+  "hardware/pcb/Combadge.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 20,
+ "url": "https://github.com/Pippadi/combadge/blob/1bcbc107b933cac1ac5d8c57c548683c93237cda/hardware/pcb/Combadge.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

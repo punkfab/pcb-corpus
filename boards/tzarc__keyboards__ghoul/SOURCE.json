@@ -1,0 +1,13 @@
+{
+ "repo": "tzarc/keyboards",
+ "commit": "21dd586153f70b0247c3c38f8a8070891e49041d",
+ "path": "Ghoul/v1.0/ghoul.kicad_pcb",
+ "extras": [
+  "Ghoul/v1.0/ghoul.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 988,
+ "url": "https://github.com/tzarc/keyboards/blob/21dd586153f70b0247c3c38f8a8070891e49041d/Ghoul/v1.0/ghoul.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

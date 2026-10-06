@@ -1,0 +1,13 @@
+{
+ "repo": "ziteh/moco",
+ "commit": "e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e",
+ "path": "hardware/moco-rd501/moco-rd501.kicad_pcb",
+ "extras": [
+  "hardware/moco-rd501/moco-rd501.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 22,
+ "url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/hardware/moco-rd501/moco-rd501.kicad_pcb",
+ "licence_file": "LICENSE-CERN-OHL-P",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

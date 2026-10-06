@@ -1,0 +1,14 @@
+{
+ "repo": "protolux-electronics/soleil_hardware",
+ "commit": "8c7c922c1e5248b8808cf1ac2964644eca952a06",
+ "path": "soleil.kicad_pcb",
+ "extras": [
+  "soleil.kicad_pro",
+  "soleil.kicad_dru"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 22,
+ "url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/soleil.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

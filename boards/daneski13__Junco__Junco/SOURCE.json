@@ -1,0 +1,14 @@
+{
+ "repo": "daneski13/Junco",
+ "commit": "c68394ccee7ded60ace0b9c5d51e27eb902a2379",
+ "path": "PCB/Junco.kicad_pcb",
+ "extras": [
+  "PCB/Junco.kicad_pro",
+  "PCB/Junco.kicad_dru"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 14,
+ "url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/PCB/Junco.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

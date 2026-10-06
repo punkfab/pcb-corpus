@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/zx-sizif-xxs",
+ "commit": "6504938c1b5bfb3ea5a62f4b7948bf503a3f5d62",
+ "path": "pcb/rev.B/sizif-xxs.kicad_pcb",
+ "extras": [
+  "pcb/rev.B/sizif-xxs.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 49,
+ "url": "https://github.com/UzixLS/zx-sizif-xxs/blob/6504938c1b5bfb3ea5a62f4b7948bf503a3f5d62/pcb/rev.B/sizif-xxs.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

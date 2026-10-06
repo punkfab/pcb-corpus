@@ -1,0 +1,13 @@
+{
+ "repo": "CIRCUITSTATE/Mitayi-Pico-D1",
+ "commit": "8411224b5795dd74843ff87e8ead096f1e13e11d",
+ "path": "Mitayi-Pico-D1.kicad_pcb",
+ "extras": [
+  "Mitayi-Pico-D1.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 36,
+ "url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/Mitayi-Pico-D1.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

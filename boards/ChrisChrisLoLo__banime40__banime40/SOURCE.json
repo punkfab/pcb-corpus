@@ -1,0 +1,13 @@
+{
+ "repo": "ChrisChrisLoLo/banime40",
+ "commit": "f447898e94577a8444246a8539a5e17d64ea6388",
+ "path": "pcb/banime40/banime40.kicad_pcb",
+ "extras": [
+  "pcb/banime40/banime40.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 111,
+ "url": "https://github.com/ChrisChrisLoLo/banime40/blob/f447898e94577a8444246a8539a5e17d64ea6388/pcb/banime40/banime40.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

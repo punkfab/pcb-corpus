@@ -1,0 +1,13 @@
+{
+ "repo": "tcsullivan/noisecard",
+ "commit": "656b892d94b54d76c031eaaaabcdbb3bfc0273fe",
+ "path": "hardware/noisecard.kicad_pcb",
+ "extras": [
+  "hardware/noisecard.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 21,
+ "url": "https://github.com/tcsullivan/noisecard/blob/656b892d94b54d76c031eaaaabcdbb3bfc0273fe/hardware/noisecard.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "mohamedboubaker/Battery-Powered-STM32-Board-With-USB",
+ "commit": "a33a81c9199174a9116dfb75a76a126d2341667e",
+ "path": "Hardware/ORBIT.kicad_pcb",
+ "extras": [
+  "Hardware/ORBIT.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 13,
+ "url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/Hardware/ORBIT.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

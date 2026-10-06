@@ -1,0 +1,13 @@
+{
+ "repo": "mecparts/RetroWiFiModem",
+ "commit": "93ae395d948b36fcf846eda8158dcae77d6c4593",
+ "path": "kicad/RetroWiFiModem.kicad_pcb",
+ "extras": [
+  "kicad/RetroWiFiModem.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 256,
+ "url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/kicad/RetroWiFiModem.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

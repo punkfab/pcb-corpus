@@ -1,0 +1,13 @@
+{
+ "repo": "murexrobotics/electrical",
+ "commit": "049cf2bf07f3f448b1e78f0db10a797d004448b9",
+ "path": "esc_carrier/ESC_Carrier.kicad_pcb",
+ "extras": [
+  "esc_carrier/ESC_Carrier.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 192,
+ "url": "https://github.com/murexrobotics/electrical/blob/049cf2bf07f3f448b1e78f0db10a797d004448b9/esc_carrier/ESC_Carrier.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

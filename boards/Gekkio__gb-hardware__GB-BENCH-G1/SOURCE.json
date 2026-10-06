@@ -1,0 +1,13 @@
+{
+ "repo": "Gekkio/gb-hardware",
+ "commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+ "path": "GB-BENCH-G1/GB-BENCH-G1.kicad_pcb",
+ "extras": [
+  "GB-BENCH-G1/GB-BENCH-G1.kicad_pro"
+ ],
+ "licence": "CC-BY-4.0",
+ "stars": 377,
+ "url": "https://github.com/Gekkio/gb-hardware/blob/b5ade559bd988fd6c4f5941615d4d6d79dec9098/GB-BENCH-G1/GB-BENCH-G1.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

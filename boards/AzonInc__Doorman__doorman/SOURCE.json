@@ -1,0 +1,13 @@
+{
+ "repo": "AzonInc/Doorman",
+ "commit": "fdec5c030e77bb8e0219d745cc0282139c96836c",
+ "path": "pcb/doorman.kicad_pcb",
+ "extras": [
+  "pcb/doorman.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 244,
+ "url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/pcb/doorman.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

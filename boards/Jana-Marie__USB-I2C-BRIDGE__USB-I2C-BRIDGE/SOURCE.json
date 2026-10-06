@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/USB-I2C-BRIDGE",
+ "commit": "a772e442bc656c8fbef76fd51cd5546343f9e1ef",
+ "path": "USB-I2C-BRIDGE.kicad_pcb",
+ "extras": [
+  "USB-I2C-BRIDGE.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 14,
+ "url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/USB-I2C-BRIDGE.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

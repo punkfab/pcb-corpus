@@ -1,0 +1,13 @@
+{
+ "repo": "raeedcho/temper",
+ "commit": "08b23b021fcec6c2ae355cade7e0e473530afb85",
+ "path": "pcb/temper.kicad_pcb",
+ "extras": [
+  "pcb/temper.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 483,
+ "url": "https://github.com/raeedcho/temper/blob/08b23b021fcec6c2ae355cade7e0e473530afb85/pcb/temper.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

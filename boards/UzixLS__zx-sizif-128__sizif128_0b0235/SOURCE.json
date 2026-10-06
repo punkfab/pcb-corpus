@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/zx-sizif-128",
+ "commit": "8e5a3a1aad2e226ff0efdb34e257309ecd3bb1a6",
+ "path": "pcb/rev.C/sizif128.kicad_pcb",
+ "extras": [
+  "pcb/rev.C/sizif128.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 32,
+ "url": "https://github.com/UzixLS/zx-sizif-128/blob/8e5a3a1aad2e226ff0efdb34e257309ecd3bb1a6/pcb/rev.C/sizif128.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "koron/yuiop",
+ "commit": "b458d732ee9772453eb199cf27267463ee8503cd",
+ "path": "yuiop2040/yuiop2040.kicad_pcb",
+ "extras": [
+  "yuiop2040/yuiop2040.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 15,
+ "url": "https://github.com/koron/yuiop/blob/b458d732ee9772453eb199cf27267463ee8503cd/yuiop2040/yuiop2040.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

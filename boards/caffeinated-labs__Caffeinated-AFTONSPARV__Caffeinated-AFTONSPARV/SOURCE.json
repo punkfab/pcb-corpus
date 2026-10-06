@@ -1,0 +1,13 @@
+{
+ "repo": "caffeinated-labs/Caffeinated-AFTONSPARV",
+ "commit": "d154757c2b817662bcc6fe4e06032a28d3a08222",
+ "path": "Caffeinated-AFTONSPARV.kicad_pcb",
+ "extras": [
+  "Caffeinated-AFTONSPARV.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 14,
+ "url": "https://github.com/caffeinated-labs/Caffeinated-AFTONSPARV/blob/d154757c2b817662bcc6fe4e06032a28d3a08222/Caffeinated-AFTONSPARV.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

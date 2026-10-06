@@ -1,0 +1,13 @@
+{
+ "repo": "mlab-modules/GPS02",
+ "commit": "c722e733dae1ba0ff0504ca5000ce0c85c051ef0",
+ "path": "hw/sch_pcb/GPS02B.kicad_pcb",
+ "extras": [
+  "hw/sch_pcb/GPS02B.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 7,
+ "url": "https://github.com/mlab-modules/GPS02/blob/c722e733dae1ba0ff0504ca5000ce0c85c051ef0/hw/sch_pcb/GPS02B.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

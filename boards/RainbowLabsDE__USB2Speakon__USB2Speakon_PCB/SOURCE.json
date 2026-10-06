@@ -1,0 +1,14 @@
+{
+ "repo": "RainbowLabsDE/USB2Speakon",
+ "commit": "69c398a24398514b7fbed54ed7135db6eff4d0b0",
+ "path": "USB2Speakon_PCB/USB2Speakon_PCB.kicad_pcb",
+ "extras": [
+  "USB2Speakon_PCB/USB2Speakon_PCB.kicad_pro",
+  "USB2Speakon_PCB/USB2Speakon_PCB.kicad_dru"
+ ],
+ "licence": "CERN-OHL-W-2.0",
+ "stars": 47,
+ "url": "https://github.com/RainbowLabsDE/USB2Speakon/blob/69c398a24398514b7fbed54ed7135db6eff4d0b0/USB2Speakon_PCB/USB2Speakon_PCB.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

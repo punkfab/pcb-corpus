@@ -1,0 +1,13 @@
+{
+ "repo": "iandchasse/silkscreen-pcb",
+ "commit": "b448b3988f0ef222cb5296c1e17d8c121f7934df",
+ "path": "silkscreen_pcb.kicad_pcb",
+ "extras": [
+  "silkscreen_pcb.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 564,
+ "url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/silkscreen_pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

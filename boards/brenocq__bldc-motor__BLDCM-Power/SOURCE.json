@@ -1,0 +1,13 @@
+{
+ "repo": "brenocq/bldc-motor",
+ "commit": "b74fb1d7a4637e437ef5a33e78a36db7c28fac7e",
+ "path": "electronics/BLDCM-Power/BLDCM-Power.kicad_pcb",
+ "extras": [
+  "electronics/BLDCM-Power/BLDCM-Power.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 10,
+ "url": "https://github.com/brenocq/bldc-motor/blob/b74fb1d7a4637e437ef5a33e78a36db7c28fac7e/electronics/BLDCM-Power/BLDCM-Power.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

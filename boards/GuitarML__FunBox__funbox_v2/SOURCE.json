@@ -1,0 +1,13 @@
+{
+ "repo": "GuitarML/FunBox",
+ "commit": "c0409dde8e381027688f3cc212951c605247a18f",
+ "path": "hardware/funbox_v2_midi/funbox_v2.kicad_pcb",
+ "extras": [
+  "hardware/funbox_v2_midi/funbox_v2.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 281,
+ "url": "https://github.com/GuitarML/FunBox/blob/c0409dde8e381027688f3cc212951c605247a18f/hardware/funbox_v2_midi/funbox_v2.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/pc-kharon-386",
+ "commit": "83f08c6beea183fbf4421722469d7efb46206c52",
+ "path": "pcb_top/rev.A/kharon386_top.kicad_pcb",
+ "extras": [
+  "pcb_top/rev.A/kharon386_top.kicad_pro"
+ ],
+ "licence": "CC-BY-SA-4.0",
+ "stars": 112,
+ "url": "https://github.com/UzixLS/pc-kharon-386/blob/83f08c6beea183fbf4421722469d7efb46206c52/pcb_top/rev.A/kharon386_top.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

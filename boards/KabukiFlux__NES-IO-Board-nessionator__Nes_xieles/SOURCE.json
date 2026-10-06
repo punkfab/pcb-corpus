@@ -1,0 +1,13 @@
+{
+ "repo": "KabukiFlux/NES-IO-Board-nessionator",
+ "commit": "3617dd8a1d23131035c734626b504feaac115d52",
+ "path": "kicad/Nes_xieles.kicad_pcb",
+ "extras": [
+  "kicad/Nes_xieles.kicad_pro"
+ ],
+ "licence": "BSD-3-Clause",
+ "stars": 9,
+ "url": "https://github.com/KabukiFlux/NES-IO-Board-nessionator/blob/3617dd8a1d23131035c734626b504feaac115d52/kicad/Nes_xieles.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

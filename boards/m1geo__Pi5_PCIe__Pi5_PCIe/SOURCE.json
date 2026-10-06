@@ -1,0 +1,13 @@
+{
+ "repo": "m1geo/Pi5_PCIe",
+ "commit": "3047c9f160eec119d914ec9dab18eb099b6ed4f7",
+ "path": "Pi5_PCIe.kicad_pcb",
+ "extras": [
+  "Pi5_PCIe.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 87,
+ "url": "https://github.com/m1geo/Pi5_PCIe/blob/3047c9f160eec119d914ec9dab18eb099b6ed4f7/Pi5_PCIe.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

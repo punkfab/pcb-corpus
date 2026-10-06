@@ -1,0 +1,13 @@
+{
+ "repo": "Vaaarad07/PCB_Designs",
+ "commit": "34fd3602b26703bab6a83cee57d19a18b5c466e3",
+ "path": "STM32F407_MVCU/MVCU_F407.kicad_pcb",
+ "extras": [
+  "STM32F407_MVCU/MVCU_F407.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 10,
+ "url": "https://github.com/Vaaarad07/PCB_Designs/blob/34fd3602b26703bab6a83cee57d19a18b5c466e3/STM32F407_MVCU/MVCU_F407.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

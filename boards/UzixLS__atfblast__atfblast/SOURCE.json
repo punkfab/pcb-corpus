@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/atfblast",
+ "commit": "60182800c42012c02741a6ad18b6e82cdc7d488a",
+ "path": "pcb/atfblast.kicad_pcb",
+ "extras": [
+  "pcb/atfblast.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 8,
+ "url": "https://github.com/UzixLS/atfblast/blob/60182800c42012c02741a6ad18b6e82cdc7d488a/pcb/atfblast.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

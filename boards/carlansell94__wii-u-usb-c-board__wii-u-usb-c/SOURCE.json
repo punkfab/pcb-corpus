@@ -1,0 +1,13 @@
+{
+ "repo": "carlansell94/wii-u-usb-c-board",
+ "commit": "0177cee4427df7d27e0b454814806dead38a14ac",
+ "path": "wii-u-usb-c.kicad_pcb",
+ "extras": [
+  "wii-u-usb-c.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 16,
+ "url": "https://github.com/carlansell94/wii-u-usb-c-board/blob/0177cee4427df7d27e0b454814806dead38a14ac/wii-u-usb-c.kicad_pcb",
+ "licence_file": "COPYING",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "Spaceflight-Rocketry-Giessen-e-V/Telemetry",
+ "commit": "ee4886d161d5449adb68fcab5ca6824ca0b450bf",
+ "path": "groundstation/pcb/Motherboard/TelemetryGroundstationMB.kicad_pcb",
+ "extras": [
+  "groundstation/pcb/Motherboard/TelemetryGroundstationMB.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 26,
+ "url": "https://github.com/Spaceflight-Rocketry-Giessen-e-V/Telemetry/blob/ee4886d161d5449adb68fcab5ca6824ca0b450bf/groundstation/pcb/Motherboard/TelemetryGroundstationMB.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

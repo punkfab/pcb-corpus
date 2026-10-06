@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/hoverboard-breakout",
+ "commit": "413e4c963f38c12b7948b0283cdcdc56078716aa",
+ "path": "bobbycar_breakout/bobbycar.kicad_pcb",
+ "extras": [
+  "bobbycar_breakout/bobbycar.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 39,
+ "url": "https://github.com/Jana-Marie/hoverboard-breakout/blob/413e4c963f38c12b7948b0283cdcdc56078716aa/bobbycar_breakout/bobbycar.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

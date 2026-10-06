@@ -1,0 +1,13 @@
+{
+ "repo": "Hydra-Designs/project-hydra-meshtastic-pcb",
+ "commit": "3ff34b532b74792a773c70989041756519516835",
+ "path": "Hydra Base/Hydra Base.kicad_pcb",
+ "extras": [
+  "Hydra Base/Hydra Base.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 167,
+ "url": "https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb/blob/3ff34b532b74792a773c70989041756519516835/Hydra Base/Hydra Base.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

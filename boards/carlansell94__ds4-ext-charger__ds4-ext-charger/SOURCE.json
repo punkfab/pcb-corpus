@@ -1,0 +1,13 @@
+{
+ "repo": "carlansell94/ds4-ext-charger",
+ "commit": "7ddaf0f22f9a912f536e499694995c75319f5a34",
+ "path": "ds4-ext-charger.kicad_pcb",
+ "extras": [
+  "ds4-ext-charger.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 18,
+ "url": "https://github.com/carlansell94/ds4-ext-charger/blob/7ddaf0f22f9a912f536e499694995c75319f5a34/ds4-ext-charger.kicad_pcb",
+ "licence_file": "COPYING",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "zhiayang/mikoto",
+ "commit": "86318f6c69495b8308354b6393d85229177b26ae",
+ "path": "flashbed/mikoto-flashbed.kicad_pcb",
+ "extras": [
+  "flashbed/mikoto-flashbed.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 356,
+ "url": "https://github.com/zhiayang/mikoto/blob/86318f6c69495b8308354b6393d85229177b26ae/flashbed/mikoto-flashbed.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

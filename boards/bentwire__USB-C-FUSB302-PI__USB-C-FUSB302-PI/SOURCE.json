@@ -1,0 +1,14 @@
+{
+ "repo": "bentwire/USB-C-FUSB302-PI",
+ "commit": "7d95292262b42767bbeefebadb6bafe055923d50",
+ "path": "USB-C-FUSB302-PI.kicad_pcb",
+ "extras": [
+  "USB-C-FUSB302-PI.kicad_pro",
+  "USB-C-FUSB302-PI.kicad_dru"
+ ],
+ "licence": "MIT",
+ "stars": 12,
+ "url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/USB-C-FUSB302-PI.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

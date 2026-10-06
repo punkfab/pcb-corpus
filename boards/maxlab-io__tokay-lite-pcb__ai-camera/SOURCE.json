@@ -1,0 +1,13 @@
+{
+ "repo": "maxlab-io/tokay-lite-pcb",
+ "commit": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218",
+ "path": "ai-camera-rev1/ai-camera.kicad_pcb",
+ "extras": [
+  "ai-camera-rev1/ai-camera.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 126,
+ "url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/ai-camera-rev1/ai-camera.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

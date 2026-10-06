@@ -1,0 +1,13 @@
+{
+ "repo": "badjeff/pmw3610-pcb",
+ "commit": "b6f9f8fc26e2dd74b436263ade3f558f8940fec9",
+ "path": "pmw3610_pcb.kicad_pcb",
+ "extras": [
+  "pmw3610_pcb.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 28,
+ "url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/pmw3610_pcb.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

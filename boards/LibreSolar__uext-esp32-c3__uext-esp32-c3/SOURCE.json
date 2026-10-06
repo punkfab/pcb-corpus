@@ -1,0 +1,13 @@
+{
+ "repo": "LibreSolar/uext-esp32-c3",
+ "commit": "01b37743432ae1081ba7d384ddbcb626b637ea74",
+ "path": "kicad/uext-esp32-c3.kicad_pcb",
+ "extras": [
+  "kicad/uext-esp32-c3.kicad_pro"
+ ],
+ "licence": "CERN-OHL-W-2.0",
+ "stars": 5,
+ "url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/kicad/uext-esp32-c3.kicad_pcb",
+ "licence_file": "LICENCE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

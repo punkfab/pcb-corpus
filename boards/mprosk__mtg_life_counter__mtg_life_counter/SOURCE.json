@@ -1,0 +1,13 @@
+{
+ "repo": "mprosk/mtg_life_counter",
+ "commit": "cacf154bdebce5b228b69c656290dcfb7af31fa9",
+ "path": "pcb/mtg_life_counter.kicad_pcb",
+ "extras": [
+  "pcb/mtg_life_counter.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 19,
+ "url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/pcb/mtg_life_counter.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

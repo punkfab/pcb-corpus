@@ -1,0 +1,13 @@
+{
+ "repo": "diminDDL/PiUPS",
+ "commit": "423f9aa1606c04cad0df986af8045d4db65deac5",
+ "path": "PiUPS/PiUPS.kicad_pcb",
+ "extras": [
+  "PiUPS/PiUPS.kicad_pro"
+ ],
+ "licence": "CERN-OHL-W-2.0",
+ "stars": 15,
+ "url": "https://github.com/diminDDL/PiUPS/blob/423f9aa1606c04cad0df986af8045d4db65deac5/PiUPS/PiUPS.kicad_pcb",
+ "licence_file": "LICENCE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

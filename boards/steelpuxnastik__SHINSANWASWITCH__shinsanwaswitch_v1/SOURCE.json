@@ -1,0 +1,13 @@
+{
+ "repo": "steelpuxnastik/SHINSANWASWITCH",
+ "commit": "ff80e34fb782b424a97bdb1539376e4c645c4763",
+ "path": "shinsanwaswitch_PCB/shinsanwaswitch_v1.kicad_pcb",
+ "extras": [
+  "shinsanwaswitch_PCB/shinsanwaswitch_v1.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 14,
+ "url": "https://github.com/steelpuxnastik/SHINSANWASWITCH/blob/ff80e34fb782b424a97bdb1539376e4c645c4763/shinsanwaswitch_PCB/shinsanwaswitch_v1.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

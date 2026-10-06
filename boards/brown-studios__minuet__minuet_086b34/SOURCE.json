@@ -1,0 +1,14 @@
+{
+ "repo": "brown-studios/minuet",
+ "commit": "1e43aa3df01b33522db23f4b2139f89b5689da99",
+ "path": "hardware/minuet/v3/minuet.kicad_pcb",
+ "extras": [
+  "hardware/minuet/v3/minuet.kicad_pro",
+  "hardware/minuet/v3/minuet.kicad_dru"
+ ],
+ "licence": "MIT",
+ "stars": 65,
+ "url": "https://github.com/brown-studios/minuet/blob/1e43aa3df01b33522db23f4b2139f89b5689da99/hardware/minuet/v3/minuet.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

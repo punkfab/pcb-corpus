@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/rgb2svideo",
+ "commit": "4651d521baee146d216bc5f50152b0938d139a12",
+ "path": "pcb/rev.A/rgb2svideo.kicad_pcb",
+ "extras": [
+  "pcb/rev.A/rgb2svideo.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 13,
+ "url": "https://github.com/UzixLS/rgb2svideo/blob/4651d521baee146d216bc5f50152b0938d139a12/pcb/rev.A/rgb2svideo.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

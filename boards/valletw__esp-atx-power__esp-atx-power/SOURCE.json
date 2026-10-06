@@ -1,0 +1,13 @@
+{
+ "repo": "valletw/esp-atx-power",
+ "commit": "aa33f61b839b2c357b7aa94e3c55a752e198a9f3",
+ "path": "kicad/esp-atx-power.kicad_pcb",
+ "extras": [
+  "kicad/esp-atx-power.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 28,
+ "url": "https://github.com/valletw/esp-atx-power/blob/aa33f61b839b2c357b7aa94e3c55a752e198a9f3/kicad/esp-atx-power.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "ZSWatch/Watch-DevKit-HW",
+ "commit": "e3102a3bb5b75f46a0e20edbc5e3a159150383d2",
+ "path": "devkit/ZSWatch-Watch-DevKit.kicad_pcb",
+ "extras": [
+  "devkit/ZSWatch-Watch-DevKit.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 187,
+ "url": "https://github.com/ZSWatch/Watch-DevKit-HW/blob/e3102a3bb5b75f46a0e20edbc5e3a159150383d2/devkit/ZSWatch-Watch-DevKit.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

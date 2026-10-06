@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/analog-toolkit",
+ "commit": "c97bcc3512fb96a0b8f981e363db583b22aa6423",
+ "path": "analog-toolkit.kicad_pcb",
+ "extras": [
+  "analog-toolkit.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 74,
+ "url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/analog-toolkit.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

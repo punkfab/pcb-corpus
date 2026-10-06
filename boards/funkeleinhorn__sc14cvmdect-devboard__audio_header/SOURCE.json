@@ -1,0 +1,13 @@
+{
+ "repo": "funkeleinhorn/sc14cvmdect-devboard",
+ "commit": "1e5ffbd8f1b2c45f256a95375aff201b5552f03a",
+ "path": "header_boards/audio_header/audio_header.kicad_pcb",
+ "extras": [
+  "header_boards/audio_header/audio_header.kicad_pro"
+ ],
+ "licence": "CERN-OHL-S-2.0",
+ "stars": 20,
+ "url": "https://github.com/funkeleinhorn/sc14cvmdect-devboard/blob/1e5ffbd8f1b2c45f256a95375aff201b5552f03a/header_boards/audio_header/audio_header.kicad_pcb",
+ "licence_file": "LICENSE.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

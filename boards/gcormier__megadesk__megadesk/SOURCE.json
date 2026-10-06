@@ -1,0 +1,13 @@
+{
+ "repo": "gcormier/megadesk",
+ "commit": "2d1bf8d30337841dc9f5c1ef0724701185f99c39",
+ "path": "pcb/megadesk.kicad_pcb",
+ "extras": [
+  "pcb/megadesk.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 818,
+ "url": "https://github.com/gcormier/megadesk/blob/2d1bf8d30337841dc9f5c1ef0724701185f99c39/pcb/megadesk.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

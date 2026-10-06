@@ -1,0 +1,13 @@
+{
+ "repo": "camrbuss/pinci",
+ "commit": "4956f50cf3902504b41de4bbb62cca7649930eb4",
+ "path": "pcb/pinci.kicad_pcb",
+ "extras": [
+  "pcb/pinci.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 129,
+ "url": "https://github.com/camrbuss/pinci/blob/4956f50cf3902504b41de4bbb62cca7649930eb4/pcb/pinci.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

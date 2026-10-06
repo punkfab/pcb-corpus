@@ -1,0 +1,13 @@
+{
+ "repo": "jasonsbeer/Amiga-2000-EATX",
+ "commit": "dfde4574396919e9cc51f5079ef054e4de3b9a07",
+ "path": "TICK/TICK-Dual-0805/TICK.kicad_pcb",
+ "extras": [
+  "TICK/TICK-Dual-0805/TICK.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 198,
+ "url": "https://github.com/jasonsbeer/Amiga-2000-EATX/blob/dfde4574396919e9cc51f5079ef054e4de3b9a07/TICK/TICK-Dual-0805/TICK.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

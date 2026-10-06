@@ -1,0 +1,14 @@
+{
+ "repo": "mlab-modules/USBI2C01",
+ "commit": "8fc108913f407128495c47fdca671d2adf68268c",
+ "path": "hw/sch_pcb/USBI2C01.kicad_pcb",
+ "extras": [
+  "hw/sch_pcb/USBI2C01.kicad_pro",
+  "hw/sch_pcb/USBI2C01.kicad_dru"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 8,
+ "url": "https://github.com/mlab-modules/USBI2C01/blob/8fc108913f407128495c47fdca671d2adf68268c/hw/sch_pcb/USBI2C01.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

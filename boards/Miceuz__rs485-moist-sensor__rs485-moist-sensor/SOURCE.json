@@ -1,0 +1,13 @@
+{
+ "repo": "Miceuz/rs485-moist-sensor",
+ "commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+ "path": "rs485-moist-sensor.kicad_pcb",
+ "extras": [
+  "rs485-moist-sensor.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 74,
+ "url": "https://github.com/Miceuz/rs485-moist-sensor/blob/8cba0cd29e35b25de832e92b6521192ec9c6ec69/rs485-moist-sensor.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

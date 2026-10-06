@@ -1,0 +1,13 @@
+{
+ "repo": "KabukiFlux/pi-rgb-cable-sync-mixer",
+ "commit": "0b4273dd13ee4344e625a34e6b0de684731fa4cf",
+ "path": "kicad/rgbpi_sync_mixer.kicad_pcb",
+ "extras": [
+  "kicad/rgbpi_sync_mixer.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 9,
+ "url": "https://github.com/KabukiFlux/pi-rgb-cable-sync-mixer/blob/0b4273dd13ee4344e625a34e6b0de684731fa4cf/kicad/rgbpi_sync_mixer.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

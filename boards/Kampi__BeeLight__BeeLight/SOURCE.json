@@ -1,0 +1,13 @@
+{
+ "repo": "Kampi/BeeLight",
+ "commit": "ff38ae16916701492b54aa682ff4f3a7e2a8d96c",
+ "path": "hardware/BeeLight.kicad_pcb",
+ "extras": [
+  "hardware/BeeLight.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 16,
+ "url": "https://github.com/Kampi/BeeLight/blob/ff38ae16916701492b54aa682ff4f3a7e2a8d96c/hardware/BeeLight.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

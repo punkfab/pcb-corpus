@@ -1,0 +1,13 @@
+{
+ "repo": "Jana-Marie/EF-S-Adapter",
+ "commit": "fea1dd99eeb21a772cd7713c1606622355f8a774",
+ "path": "hardware/v1.1/lensmount-v1.1.kicad_pcb",
+ "extras": [
+  "hardware/v1.1/lensmount-v1.1.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 139,
+ "url": "https://github.com/Jana-Marie/EF-S-Adapter/blob/fea1dd99eeb21a772cd7713c1606622355f8a774/hardware/v1.1/lensmount-v1.1.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

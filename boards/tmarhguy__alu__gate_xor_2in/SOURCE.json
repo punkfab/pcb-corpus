@@ -1,0 +1,13 @@
+{
+ "repo": "tmarhguy/alu",
+ "commit": "5545c67f7027008068e7385954e8dc7d158062fc",
+ "path": "schematics/kicad/modules/gates/gate_xor/gate_xor_2in/gate_xor_2in.kicad_pcb",
+ "extras": [
+  "schematics/kicad/modules/gates/gate_xor/gate_xor_2in/gate_xor_2in.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 48,
+ "url": "https://github.com/tmarhguy/alu/blob/5545c67f7027008068e7385954e8dc7d158062fc/schematics/kicad/modules/gates/gate_xor/gate_xor_2in/gate_xor_2in.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "byrantech/byrandev",
+ "commit": "27c9eff2f96ffc73dcc79c4969b1824b2e72986d",
+ "path": "pcb/nrf52840.kicad_pcb",
+ "extras": [
+  "pcb/nrf52840.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 21,
+ "url": "https://github.com/byrantech/byrandev/blob/27c9eff2f96ffc73dcc79c4969b1824b2e72986d/pcb/nrf52840.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

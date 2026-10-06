@@ -1,0 +1,13 @@
+{
+ "repo": "rschenk/re-gret",
+ "commit": "7bc7908e7579d462b8eebd255a90dd71fe2e64b8",
+ "path": "pcb/regret.kicad_pcb",
+ "extras": [
+  "pcb/regret.kicad_pro"
+ ],
+ "licence": "CERN-OHL-P-2.0",
+ "stars": 64,
+ "url": "https://github.com/rschenk/re-gret/blob/7bc7908e7579d462b8eebd255a90dd71fe2e64b8/pcb/regret.kicad_pcb",
+ "licence_file": "LICENSE.md",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/zx-multisound",
+ "commit": "d7f3ac293724e1b69cbe9af9894311de4e07e4d1",
+ "path": "pcb/rev.A1/zx-multisound.kicad_pcb",
+ "extras": [
+  "pcb/rev.A1/zx-multisound.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 37,
+ "url": "https://github.com/UzixLS/zx-multisound/blob/d7f3ac293724e1b69cbe9af9894311de4e07e4d1/pcb/rev.A1/zx-multisound.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

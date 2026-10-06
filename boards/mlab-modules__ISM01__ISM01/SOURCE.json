@@ -1,0 +1,13 @@
+{
+ "repo": "mlab-modules/ISM01",
+ "commit": "422199e3359900cc62c1d4ae34621d46d3e8885d",
+ "path": "hw/sch_pcb/ISM01.kicad_pcb",
+ "extras": [
+  "hw/sch_pcb/ISM01.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 10,
+ "url": "https://github.com/mlab-modules/ISM01/blob/422199e3359900cc62c1d4ae34621d46d3e8885d/hw/sch_pcb/ISM01.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

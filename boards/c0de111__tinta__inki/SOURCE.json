@@ -1,0 +1,13 @@
+{
+ "repo": "c0de111/tinta",
+ "commit": "a895cb86963ff5e5aecf5bec25fb96a01a5e0546",
+ "path": "hardware/circuit/legacy/inki.kicad_pcb",
+ "extras": [
+  "hardware/circuit/legacy/inki.kicad_pro"
+ ],
+ "licence": "Apache-2.0",
+ "stars": 37,
+ "url": "https://github.com/c0de111/tinta/blob/a895cb86963ff5e5aecf5bec25fb96a01a5e0546/hardware/circuit/legacy/inki.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

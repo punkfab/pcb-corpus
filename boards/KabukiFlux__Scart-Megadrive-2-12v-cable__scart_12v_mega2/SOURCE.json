@@ -1,0 +1,13 @@
+{
+ "repo": "KabukiFlux/Scart-Megadrive-2-12v-cable",
+ "commit": "aac8729000a8ba76105e10e2019ae9eaa3c6e0b4",
+ "path": "KiCAD/scart_12v_mega2.kicad_pcb",
+ "extras": [
+  "KiCAD/scart_12v_mega2.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 12,
+ "url": "https://github.com/KabukiFlux/Scart-Megadrive-2-12v-cable/blob/aac8729000a8ba76105e10e2019ae9eaa3c6e0b4/KiCAD/scart_12v_mega2.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

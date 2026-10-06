@@ -1,0 +1,13 @@
+{
+ "repo": "UzixLS/pc-ega-composite-daughterboard",
+ "commit": "107837cf62a4844f5da68296f26eb26a1904d86b",
+ "path": "pcb/rev.A/ega-composite-daughterboard.kicad_pcb",
+ "extras": [
+  "pcb/rev.A/ega-composite-daughterboard.kicad_pro"
+ ],
+ "licence": "MIT",
+ "stars": 6,
+ "url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/pcb/rev.A/ega-composite-daughterboard.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

@@ -1,0 +1,13 @@
+{
+ "repo": "rniwase/sdtv2csi",
+ "commit": "abe6b2edf319fa3128b6ef93bbeb7eeb4f215bb5",
+ "path": "pcb/sdtv2csi.kicad_pcb",
+ "extras": [
+  "pcb/sdtv2csi.kicad_pro"
+ ],
+ "licence": "CC0-1.0",
+ "stars": 54,
+ "url": "https://github.com/rniwase/sdtv2csi/blob/abe6b2edf319fa3128b6ef93bbeb7eeb4f215bb5/pcb/sdtv2csi.kicad_pcb",
+ "licence_file": "LICENSE",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}

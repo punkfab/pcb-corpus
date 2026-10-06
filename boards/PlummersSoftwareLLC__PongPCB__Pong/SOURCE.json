@@ -1,0 +1,13 @@
+{
+ "repo": "PlummersSoftwareLLC/PongPCB",
+ "commit": "fcaeeb53f58a966881ab961926cd0ed7229238d3",
+ "path": "Pong.kicad_pcb",
+ "extras": [
+  "Pong.kicad_pro"
+ ],
+ "licence": "GPL-3.0",
+ "stars": 12,
+ "url": "https://github.com/PlummersSoftwareLLC/PongPCB/blob/fcaeeb53f58a966881ab961926cd0ed7229238d3/Pong.kicad_pcb",
+ "licence_file": "COPYING.txt",
+ "changes": "board.* are unmodified copies, renamed. unrouted.kicad_pcb is board.kicad_pcb with tracks, vias and zone fills removed."
+}
